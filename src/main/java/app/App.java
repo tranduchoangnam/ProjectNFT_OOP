@@ -1,7 +1,6 @@
 package app;
 
 import java.io.IOException;
-
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -30,14 +29,6 @@ public class App {
         for (Element page : pages) {
             JSONObject jsonObject = new JSONObject();
             String href = page.select("a[href]").attr("href");
-            // Elements swatchs = page.select("div[id*=option-label-color]");
-            // System.out.println(swatchs);
-            // ArrayList<String> colors = new ArrayList<>();
-            // for (Element swatchOption : swatchs) {
-            // String color = swatchOption.attr("data-option-tooltip-value");
-            // colors.add(color);
-            // }
-            // System.out.println(colors.toString());
 
             print("Fetching %s...", href);
             print("%s", "end");
