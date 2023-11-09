@@ -1,7 +1,6 @@
 package app;
 
 import java.io.IOException;
-import java.lang.reflect.Array;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
