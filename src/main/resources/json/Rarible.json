@@ -1,384 +1,402 @@
 {
   "1d" : [ {
     "rank" : "1",
-    "name" : "Bored Ape Yacht Club",
-    "floorPrice" : "26.95 ETH",
-    "floorChange" : "-5.3%",
-    "volume" : "1,743 ETH",
-    "volumeChange" : "+761.9%",
+    "name" : "Azuki",
+    "floorPrice" : "5.898 ETH",
+    "floorChange" : "+1.7%",
+    "volume" : "1,044 ETH",
+    "volumeChange" : "-16.4%",
     "items" : 10000,
-    "owners" : 5773
+    "owners" : 4416
   }, {
     "rank" : "2",
-    "name" : "Azuki",
-    "floorPrice" : "6.45 ETH",
-    "floorChange" : "+3.1%",
-    "volume" : "1,295 ETH",
-    "volumeChange" : "+8.4%",
-    "items" : 10000,
-    "owners" : 4425
+    "name" : "Pudgy Penguins",
+    "floorPrice" : "10.9 ETH",
+    "floorChange" : "+0.2%",
+    "volume" : "827.2 ETH",
+    "volumeChange" : "+85.7%",
+    "items" : 8888,
+    "owners" : 4623
   }, {
     "rank" : "3",
-    "name" : "Pudgy Penguins",
-    "floorPrice" : "9.95 ETH",
-    "floorChange" : "-3.4%",
-    "volume" : "861.9 ETH",
-    "volumeChange" : "+182.5%",
-    "items" : 8888,
-    "owners" : 4638
+    "name" : "DeGods",
+    "floorPrice" : "2.8 ETH",
+    "floorChange" : "+5.3%",
+    "volume" : "659.8 ETH",
+    "volumeChange" : "-15.6%",
+    "items" : 8954,
+    "owners" : 2596
   }, {
     "rank" : "4",
     "name" : "MutantApeYachtClub",
-    "floorPrice" : "5.258 ETH",
-    "floorChange" : "+0.9%",
-    "volume" : "537.2 ETH",
-    "volumeChange" : "+2.9%",
+    "floorPrice" : "5.4 ETH",
+    "floorChange" : "+3.8%",
+    "volume" : "648.3 ETH",
+    "volumeChange" : "-23.8%",
     "items" : 19486,
-    "owners" : 11798
+    "owners" : 11775
   }, {
     "rank" : "5",
     "name" : "OVERWORLD INCARNA",
     "floorPrice" : "1.799 ETH",
-    "floorChange" : "+15.6%",
-    "volume" : "481 ETH",
-    "volumeChange" : "-34%",
+    "floorChange" : "0%",
+    "volume" : "258.2 ETH",
+    "volumeChange" : "-49.4%",
     "items" : 6000,
-    "owners" : 2278
+    "owners" : 2094
   }, {
     "rank" : "6",
-    "name" : "DeGods",
-    "floorPrice" : "2.99 ETH",
-    "floorChange" : "+0.3%",
-    "volume" : "221.6 ETH",
-    "volumeChange" : "-33.5%",
-    "items" : 8954,
-    "owners" : 2579
+    "name" : "Moonbirds",
+    "floorPrice" : "1.599 ETH",
+    "floorChange" : "-15%",
+    "volume" : "245.7 ETH",
+    "volumeChange" : "+80%",
+    "items" : 10000,
+    "owners" : 5873
   }, {
     "rank" : "7",
-    "name" : "Milady Maker",
-    "floorPrice" : "2.85 ETH",
-    "floorChange" : "+2.9%",
-    "volume" : "169.8 ETH",
-    "volumeChange" : "+63.1%",
+    "name" : "Bored Ape Yacht Club",
+    "floorPrice" : "27.3 ETH",
+    "floorChange" : "+0%",
+    "volume" : "241.9 ETH",
+    "volumeChange" : "-45.9%",
     "items" : 10000,
-    "owners" : 3688
+    "owners" : 5789
   }, {
     "rank" : "8",
-    "name" : "Lil Pudgys",
-    "floorPrice" : "0.9 ETH",
-    "floorChange" : "-11.3%",
-    "volume" : "154.6 ETH",
-    "volumeChange" : "+1.1%",
-    "items" : 21400,
-    "owners" : 7999
+    "name" : "The Grapes",
+    "floorPrice" : "2.88 ETH",
+    "floorChange" : "+31.6%",
+    "volume" : "238.1 ETH",
+    "volumeChange" : "+111.5%",
+    "items" : 3333,
+    "owners" : 1088
   }, {
     "rank" : "9",
-    "name" : "Pixelmon - Generation 1",
-    "floorPrice" : "1.928 ETH",
-    "floorChange" : "-12.4%",
-    "volume" : "137.2 ETH",
-    "volumeChange" : "-21.7%",
-    "items" : 12088,
-    "owners" : 2675
+    "name" : "Lil Pudgys",
+    "floorPrice" : "1.028 ETH",
+    "floorChange" : "+2.8%",
+    "volume" : "210 ETH",
+    "volumeChange" : "+33.6%",
+    "items" : 21407,
+    "owners" : 7988
   }, {
     "rank" : "10",
-    "name" : "Wrapped Cryptopunks",
-    "floorPrice" : "129 ETH",
-    "floorChange" : "0%",
-    "volume" : "105.6 ETH",
-    "volumeChange" : "—",
-    "items" : 836,
-    "owners" : 163
+    "name" : "Creepz by OVERLORD",
+    "floorPrice" : "3.398 ETH",
+    "floorChange" : "-1.5%",
+    "volume" : "177.5 ETH",
+    "volumeChange" : "+95%",
+    "items" : 9603,
+    "owners" : 2406
   }, {
     "rank" : "11",
-    "name" : "Farm Land by Pixels",
-    "floorPrice" : "1.65 ETH",
-    "floorChange" : "-2.3%",
-    "volume" : "75.31 ETH",
-    "volumeChange" : "+54.8%",
-    "items" : 5000,
-    "owners" : 2056
+    "name" : "The Warlords of Champions Tactics",
+    "floorPrice" : "0.2 ETH",
+    "floorChange" : "+6.8%",
+    "volume" : "160.5 ETH",
+    "volumeChange" : "-57.1%",
+    "items" : 9999,
+    "owners" : 4535
   } ],
   "1w" : [ {
     "rank" : "1",
-    "name" : "Bored Ape Yacht Club",
-    "floorPrice" : "26.95 ETH",
-    "floorChange" : "-5.3%",
-    "volume" : "1,743 ETH",
-    "volumeChange" : "+761.9%",
+    "name" : "Azuki",
+    "floorPrice" : "5.898 ETH",
+    "floorChange" : "-12.7%",
+    "volume" : "7,099 ETH",
+    "volumeChange" : "+107.7%",
     "items" : 10000,
-    "owners" : 5773
+    "owners" : 4418
   }, {
     "rank" : "2",
-    "name" : "Azuki",
-    "floorPrice" : "6.45 ETH",
-    "floorChange" : "+3.1%",
-    "volume" : "1,295 ETH",
-    "volumeChange" : "+8.4%",
-    "items" : 10000,
-    "owners" : 4425
+    "name" : "MutantApeYachtClub",
+    "floorPrice" : "5.4 ETH",
+    "floorChange" : "+1.1%",
+    "volume" : "6,777 ETH",
+    "volumeChange" : "+18.4%",
+    "items" : 19486,
+    "owners" : 11776
   }, {
     "rank" : "3",
-    "name" : "Pudgy Penguins",
-    "floorPrice" : "9.95 ETH",
-    "floorChange" : "-5.2%",
-    "volume" : "5,563 ETH",
-    "volumeChange" : "-21.3%",
-    "items" : 19486,
-    "owners" : 11798
+    "name" : "Bored Ape Yacht Club",
+    "floorPrice" : "27.3 ETH",
+    "floorChange" : "-4.8%",
+    "volume" : "5,259 ETH",
+    "volumeChange" : "-53.7%",
+    "items" : 10000,
+    "owners" : 5790
   }, {
     "rank" : "4",
-    "name" : "Azuki",
-    "floorPrice" : "6.45 ETH",
-    "floorChange" : "-1.5%",
-    "volume" : "4,780 ETH",
-    "volumeChange" : "+44.2%",
-    "items" : 10000,
-    "owners" : 4425
+    "name" : "Pudgy Penguins",
+    "floorPrice" : "10.9 ETH",
+    "floorChange" : "-1.7%",
+    "volume" : "4,875 ETH",
+    "volumeChange" : "-54.6%",
+    "items" : 8888,
+    "owners" : 4623
   }, {
     "rank" : "5",
     "name" : "DeGods",
-    "floorPrice" : "2.99 ETH",
-    "floorChange" : "-4.5%",
-    "volume" : "3,023 ETH",
-    "volumeChange" : "-17%",
+    "floorPrice" : "2.79 ETH",
+    "floorChange" : "-3.5%",
+    "volume" : "4,035 ETH",
+    "volumeChange" : "+1.5%",
     "items" : 8954,
-    "owners" : 2579
+    "owners" : 2595
   }, {
     "rank" : "6",
     "name" : "OVERWORLD INCARNA",
     "floorPrice" : "1.799 ETH",
     "floorChange" : "—",
-    "volume" : "2,678 ETH",
+    "volume" : "3,973 ETH",
     "volumeChange" : "—",
     "items" : 6000,
-    "owners" : 2278
+    "owners" : 2095
   }, {
     "rank" : "7",
-    "name" : "Lil Pudgys",
-    "floorPrice" : "0.9 ETH",
-    "floorChange" : "-9.1%",
-    "volume" : "2,502 ETH",
-    "volumeChange" : "-46.8%",
-    "items" : 21400,
-    "owners" : 8000
+    "name" : "The Warlords of Champions Tactics",
+    "floorPrice" : "0.207 ETH",
+    "floorChange" : "—",
+    "volume" : "1,787 ETH",
+    "volumeChange" : "—",
+    "items" : 9999,
+    "owners" : 4521
   }, {
     "rank" : "8",
-    "name" : "Pixelmon - Generation 1",
-    "floorPrice" : "1.928 ETH",
-    "floorChange" : "+10.8%",
-    "volume" : "2,072 ETH",
-    "volumeChange" : "+14.4%",
-    "items" : 12088,
-    "owners" : 2675
+    "name" : "Milady Maker",
+    "floorPrice" : "2.728 ETH",
+    "floorChange" : "+5%",
+    "volume" : "1,610 ETH",
+    "volumeChange" : "+33.2%",
+    "items" : 10000,
+    "owners" : 3693
   }, {
     "rank" : "9",
-    "name" : "Milady Maker",
-    "floorPrice" : "2.85 ETH",
-    "floorChange" : "-10.9%",
-    "volume" : "1,770 ETH",
-    "volumeChange" : "-29%",
+    "name" : "Lil Pudgys",
+    "floorPrice" : "1.029 ETH",
+    "floorChange" : "+0.9%",
+    "volume" : "1,478 ETH",
+    "volumeChange" : "-63.4%",
+    "items" : 21407,
+    "owners" : 7989
+  }, {
+    "rank" : "10",
+    "name" : "Creepz by OVERLORD",
+    "floorPrice" : "3.399 ETH",
+    "floorChange" : "+6.6%",
+    "volume" : "1,281 ETH",
+    "volumeChange" : "-13.5%",
+    "items" : 9603,
+    "owners" : 2406
+  }, {
+    "rank" : "11",
+    "name" : "Moonbirds",
+    "floorPrice" : "1.599 ETH",
+    "floorChange" : "-15.9%",
+    "volume" : "1,103 ETH",
+    "volumeChange" : "+53.5%",
     "items" : 10000,
-    "owners" : 3688
+    "owners" : 5874
   } ],
   "1h" : [ {
     "rank" : "1",
-    "name" : "Bored Ape Yacht Club",
-    "floorPrice" : "26.95 ETH",
-    "floorChange" : "-5.3%",
-    "volume" : "1,743 ETH",
-    "volumeChange" : "+761.9%",
+    "name" : "Azuki",
+    "floorPrice" : "5.8 ETH",
+    "floorChange" : "0%",
+    "volume" : "74.02 ETH",
+    "volumeChange" : "+30.7%",
     "items" : 10000,
-    "owners" : 5773
+    "owners" : 4418
   }, {
     "rank" : "2",
-    "name" : "Azuki",
-    "floorPrice" : "6.45 ETH",
-    "floorChange" : "+3.1%",
-    "volume" : "1,295 ETH",
-    "volumeChange" : "+8.4%",
-    "items" : 10000,
-    "owners" : 4425
+    "name" : "MutantApeYachtClub",
+    "floorPrice" : "5.39 ETH",
+    "floorChange" : "+2.3%",
+    "volume" : "36.78 ETH",
+    "volumeChange" : "+17.2%",
+    "items" : 19486,
+    "owners" : 11779
   }, {
     "rank" : "3",
-    "name" : "Pudgy Penguins",
-    "floorPrice" : "9.95 ETH",
-    "floorChange" : "-3.4%",
-    "volume" : "861.9 ETH",
-    "volumeChange" : "+182.5%",
-    "items" : 8888,
-    "owners" : 4638
+    "name" : "Moonbirds",
+    "floorPrice" : "1.63 ETH",
+    "floorChange" : "-9.4%",
+    "volume" : "22.86 ETH",
+    "volumeChange" : "+77%",
+    "items" : 10000,
+    "owners" : 5867
   }, {
     "rank" : "4",
-    "name" : "MutantApeYachtClub",
-    "floorPrice" : "5.258 ETH",
-    "floorChange" : "+0.9%",
-    "volume" : "537.2 ETH",
-    "volumeChange" : "+2.9%",
-    "items" : 19486,
-    "owners" : 11798
+    "name" : "Pixelmon - Generation 1",
+    "floorPrice" : "1.9 ETH",
+    "floorChange" : "-2.6%",
+    "volume" : "13.32 ETH",
+    "volumeChange" : "+619.6%",
+    "items" : 12098,
+    "owners" : 2656
   }, {
     "rank" : "5",
-    "name" : "OVERWORLD INCARNA",
-    "floorPrice" : "1.799 ETH",
-    "floorChange" : "+15.6%",
-    "volume" : "481 ETH",
-    "volumeChange" : "-34%",
-    "items" : 6000,
-    "owners" : 2278
+    "name" : "Lil Pudgys",
+    "floorPrice" : "1.049 ETH",
+    "floorChange" : "+4.9%",
+    "volume" : "12.97 ETH",
+    "volumeChange" : "+31.5%",
+    "items" : 21407,
+    "owners" : 7961
   }, {
     "rank" : "6",
-    "name" : "DeGods",
-    "floorPrice" : "2.99 ETH",
-    "floorChange" : "+0.3%",
-    "volume" : "221.6 ETH",
-    "volumeChange" : "-33.5%",
-    "items" : 8954,
-    "owners" : 2579
+    "name" : "OVERWORLD INCARNA",
+    "floorPrice" : "1.799 ETH",
+    "floorChange" : "0%",
+    "volume" : "8.13 ETH",
+    "volumeChange" : "+207.9%",
+    "items" : 6000,
+    "owners" : 2094
   }, {
     "rank" : "7",
-    "name" : "Milady Maker",
-    "floorPrice" : "2.85 ETH",
-    "floorChange" : "+2.9%",
-    "volume" : "169.8 ETH",
-    "volumeChange" : "+63.1%",
-    "items" : 10000,
-    "owners" : 3688
+    "name" : "Otherside Koda",
+    "floorPrice" : "4.269 ETH",
+    "floorChange" : "0%",
+    "volume" : "7.96 ETH",
+    "volumeChange" : "-3%",
+    "items" : 6501,
+    "owners" : 3481
   }, {
     "rank" : "8",
-    "name" : "Lil Pudgys",
-    "floorPrice" : "0.9 ETH",
-    "floorChange" : "-11.3%",
-    "volume" : "154.6 ETH",
-    "volumeChange" : "+1.1%",
-    "items" : 21400,
-    "owners" : 7999
+    "name" : "OnChainMonkey",
+    "floorPrice" : "1.689 ETH",
+    "floorChange" : "-0.1%",
+    "volume" : "7.886 ETH",
+    "volumeChange" : "—",
+    "items" : 10000,
+    "owners" : 6864
   }, {
     "rank" : "9",
-    "name" : "Pixelmon - Generation 1",
-    "floorPrice" : "1.928 ETH",
-    "floorChange" : "-12.4%",
-    "volume" : "137.2 ETH",
-    "volumeChange" : "-21.7%",
-    "items" : 12088,
-    "owners" : 2675
+    "name" : "Blueprint: A Penguin’s Paradise",
+    "floorPrice" : "0.065 ETH",
+    "floorChange" : "+209.6%",
+    "volume" : "5.9 ETH",
+    "volumeChange" : "+55.2%",
+    "items" : 1209,
+    "owners" : 829
   }, {
     "rank" : "10",
-    "name" : "Wrapped Cryptopunks",
-    "floorPrice" : "129 ETH",
-    "floorChange" : "0%",
-    "volume" : "105.6 ETH",
-    "volumeChange" : "—",
-    "items" : 836,
-    "owners" : 163
+    "name" : "DeGods",
+    "floorPrice" : "2.79 ETH",
+    "floorChange" : "+3.3%",
+    "volume" : "5.327 ETH",
+    "volumeChange" : "-89.6%",
+    "items" : 8954,
+    "owners" : 2597
   }, {
     "rank" : "11",
-    "name" : "Farm Land by Pixels",
-    "floorPrice" : "1.65 ETH",
-    "floorChange" : "-2.3%",
-    "volume" : "75.31 ETH",
-    "volumeChange" : "+54.8%",
-    "items" : 5000,
-    "owners" : 2056
+    "name" : "Milady Maker",
+    "floorPrice" : "2.732 ETH",
+    "floorChange" : "-0.2%",
+    "volume" : "5.213 ETH",
+    "volumeChange" : "-27%",
+    "items" : 10000,
+    "owners" : 3692
   } ],
   "1m" : [ {
     "rank" : "1",
     "name" : "Bored Ape Yacht Club",
-    "floorPrice" : "26.95 ETH",
-    "floorChange" : "-20.7%",
-    "volume" : "53,924 ETH",
-    "volumeChange" : "-3.6%",
+    "floorPrice" : "27.3 ETH",
+    "floorChange" : "+3%",
+    "volume" : "54,184 ETH",
+    "volumeChange" : "+0.6%",
     "items" : 10000,
-    "owners" : 5773
+    "owners" : 5790
   }, {
     "rank" : "2",
     "name" : "MutantApeYachtClub",
-    "floorPrice" : "5.258 ETH",
-    "floorChange" : "-12.2%",
-    "volume" : "27,771 ETH",
-    "volumeChange" : "+36.2%",
+    "floorPrice" : "5.4 ETH",
+    "floorChange" : "+7.4%",
+    "volume" : "29,479 ETH",
+    "volumeChange" : "+43.1%",
     "items" : 19486,
-    "owners" : 11798
+    "owners" : 11777
   }, {
     "rank" : "3",
     "name" : "Pudgy Penguins",
-    "floorPrice" : "9.95 ETH",
-    "floorChange" : "+69.4%",
-    "volume" : "26,459 ETH",
-    "volumeChange" : "+309.8%",
+    "floorPrice" : "10.9 ETH",
+    "floorChange" : "+87.9%",
+    "volume" : "28,028 ETH",
+    "volumeChange" : "+357.1%",
     "items" : 8888,
-    "owners" : 4638
+    "owners" : 4623
   }, {
     "rank" : "4",
     "name" : "DeGods",
-    "floorPrice" : "2.99 ETH",
-    "floorChange" : "-18.6%",
-    "volume" : "20,528 ETH",
-    "volumeChange" : "+128.3%",
+    "floorPrice" : "2.79 ETH",
+    "floorChange" : "-5.6%",
+    "volume" : "22,028 ETH",
+    "volumeChange" : "+145.8%",
     "items" : 8954,
-    "owners" : 2579
+    "owners" : 2595
   }, {
     "rank" : "5",
     "name" : "Azuki",
-    "floorPrice" : "6.45 ETH",
-    "floorChange" : "+9%",
-    "volume" : "14,822 ETH",
-    "volumeChange" : "+133.9%",
+    "floorPrice" : "5.898 ETH",
+    "floorChange" : "+5.6%",
+    "volume" : "18,189 ETH",
+    "volumeChange" : "+193.2%",
     "items" : 10000,
-    "owners" : 4425
+    "owners" : 4418
   }, {
     "rank" : "6",
     "name" : "Moonbirds",
-    "floorPrice" : "2.05 ETH",
-    "floorChange" : "+0.2%",
-    "volume" : "9,504 ETH",
-    "volumeChange" : "+332.8%",
+    "floorPrice" : "1.599 ETH",
+    "floorChange" : "-19.5%",
+    "volume" : "9,899 ETH",
+    "volumeChange" : "+317.4%",
     "items" : 10000,
-    "owners" : 5858
+    "owners" : 5874
   }, {
     "rank" : "7",
     "name" : "Lil Pudgys",
-    "floorPrice" : "0.9 ETH",
-    "floorChange" : "+100%",
-    "volume" : "8,778 ETH",
-    "volumeChange" : "+857.7%",
-    "items" : 21400,
-    "owners" : 8000
+    "floorPrice" : "1.028 ETH",
+    "floorChange" : "+143%",
+    "volume" : "9,231 ETH",
+    "volumeChange" : "+846.4%",
+    "items" : 21407,
+    "owners" : 7988
   }, {
     "rank" : "8",
     "name" : "Milady Maker",
-    "floorPrice" : "2.85 ETH",
-    "floorChange" : "-4.1%",
-    "volume" : "6,348 ETH",
-    "volumeChange" : "+143.6%",
+    "floorPrice" : "2.728 ETH",
+    "floorChange" : "+20.2%",
+    "volume" : "6,395 ETH",
+    "volumeChange" : "+135.8%",
     "items" : 10000,
-    "owners" : 3688
+    "owners" : 3693
   }, {
     "rank" : "9",
     "name" : "CloneX",
-    "floorPrice" : "1.289 ETH",
-    "floorChange" : "-7.9%",
-    "volume" : "5,753 ETH",
-    "volumeChange" : "+59.5%",
-    "items" : 19518,
-    "owners" : 10074
+    "floorPrice" : "1.24 ETH",
+    "floorChange" : "-12.7%",
+    "volume" : "5,574 ETH",
+    "volumeChange" : "+55.7%",
+    "items" : 19520,
+    "owners" : 10071
   }, {
     "rank" : "10",
-    "name" : "Pixelmon - Generation 1",
-    "floorPrice" : "1.928 ETH",
-    "floorChange" : "+70.6%",
-    "volume" : "4,824 ETH",
-    "volumeChange" : "+574.8%",
-    "items" : 12088,
-    "owners" : 2675
+    "name" : "Creepz by OVERLORD",
+    "floorPrice" : "3.398 ETH",
+    "floorChange" : "+144.6%",
+    "volume" : "5,079 ETH",
+    "volumeChange" : "+761.9%",
+    "items" : 9603,
+    "owners" : 2406
   }, {
     "rank" : "11",
-    "name" : "Creepz by OVERLORD",
-    "floorPrice" : "3.35 ETH",
-    "floorChange" : "+92.5%",
-    "volume" : "4,627 ETH",
-    "volumeChange" : "+728.3%",
-    "items" : 9570,
-    "owners" : 2381
+    "name" : "Pixelmon - Generation 1",
+    "floorPrice" : "1.95 ETH",
+    "floorChange" : "+138.1%",
+    "volume" : "5,015 ETH",
+    "volumeChange" : "+526.3%",
+    "items" : 12098,
+    "owners" : 2654
   } ]
 }
