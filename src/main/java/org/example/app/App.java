@@ -11,9 +11,9 @@ public class App {
         writer.nftCollectionFileWriter();
         // NftCollectionScraper scraper = new NftCollectionScraper();
         // System.out.println(scraper.getdanhSachNftCollection());
-        JsonReader reader = new JsonReader();
+        // JsonReader reader = new JsonReader();
 
-        System.out.println(reader.readFileRarible());
+        // System.out.println(reader.readFileRarible());
         System.exit(0);
     }
 
