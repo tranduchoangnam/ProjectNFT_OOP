@@ -2,7 +2,6 @@ package org.example.app.scraper;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
-import org.json.JSONTokener;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -18,10 +17,11 @@ import java.util.ArrayList;
 import java.util.regex.Pattern;
 import java.util.regex.Matcher;
 import java.time.Duration;
+import org.json.JSONTokener;
 
 
 public class NftPostsScraper {
-    private static final int MAX_POSTS = 50;
+    private static final int MAX_POSTS = 60;
     private final WebDriver driver;
     private JSONArray postArray;
     private final WebDriverWait wait;
@@ -47,10 +47,13 @@ public class NftPostsScraper {
 
     private JSONArray collectPostsFromPage() throws InterruptedException {
         JSONArray collectedPosts = new JSONArray();
-        while (collectedPosts.length() < MAX_POSTS) {
-            List<WebElement> posts = driver.findElements(By.xpath("/html/body/div[2]/main/div/div[3]/div[1]"));
+
+        for (int loopCount = 1; loopCount <= MAX_POSTS / 10; loopCount++) {
+            System.out.println("Loop " + loopCount + ":");
+            List<WebElement> posts = driver.findElements(By.xpath("/html/body/div[2]/main/div/div[3]/div"));
+            System.out.println("Number of posts found: " + posts.size());
+
             for (WebElement post : posts) {
-                if (collectedPosts.length() >= MAX_POSTS) break;
                 JSONObject postDetails = extractDetailsFromPostElement(post);
                 collectedPosts.put(postDetails);
             }
@@ -67,15 +70,19 @@ public class NftPostsScraper {
     private JSONObject extractDetailsFromPostElement(WebElement post) {
         JSONObject postObject = new JSONObject();
         try {
-            String username = post.findElement(By.xpath("/html/body/div[2]/main/div/div[3]/div[1]/div[2]/p/a")).getText();
-            String title = post.findElement(By.xpath("/html/body/div[2]/main/div/div[3]/div[1]/div[2]/a[2]/h3")).getText();
-            String url = post.findElement(By.xpath("/html/body/div[2]/main/div/div[3]/div[1]/div[2]/a[2]")).getAttribute("href");
+            String username = post.findElement(By.xpath(".//div[2]/p/a")).getText();
+            String title = post.findElement(By.xpath(".//div[2]/a[2]/h3")).getText();
+            String time = post.findElement(By.xpath(".//div[2]/p/span[2]")).getText();
+            String url = post.findElement(By.xpath(".//div[2]/a[2]")).getAttribute("href");
 
             List<String> hashtags = extractHashtags(title);
             postObject.put("username", username);
             postObject.put("title", title);
             postObject.put("hashtags", hashtags);
             postObject.put("url", url);
+            postObject.put("time", time);
+
+            System.out.println("Post details: " + postObject.toString());
         } catch (NoSuchElementException e) {
             System.out.println("Element not found");
         }
@@ -84,7 +91,7 @@ public class NftPostsScraper {
 
     private List<String> extractHashtags(String title) {
         List<String> hashtags = new ArrayList<>();
-        Pattern hashtagPattern = Pattern.compile("/html/body/div[2]/main/div/div[3]/div[1]/div[2]/a[1]");
+        Pattern hashtagPattern = Pattern.compile(".//div[2]/a[1]");
         Matcher matcher = hashtagPattern.matcher(title);
         while (matcher.find()) {
             hashtags.add(matcher.group());
@@ -116,6 +123,7 @@ public class NftPostsScraper {
         return post.optString("username", "") +
                 post.optString("title", "") +
                 post.optString("url", "") +
+                post.optString("time", "") +
                 post.optString("hashtags", "");
     }
 
@@ -159,3 +167,4 @@ public class NftPostsScraper {
         }
     }
 }
+

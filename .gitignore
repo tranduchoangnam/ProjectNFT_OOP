@@ -11,6 +11,7 @@ target/
 .idea/libraries/
 .idea/workspace.xml
 *.iml
+!**/src/main/java/org/example/app/resources/json/NftPostsData.json
 
 ### Eclipse ###
 .apt_generated
