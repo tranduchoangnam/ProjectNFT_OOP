@@ -5,11 +5,7 @@ target/
 !**/src/test/**/out/
 !**/src/main/**/target/
 !**/src/test/**/target/
-.idea/modules.xml
-.idea/jarRepositories.xml
-.idea/compiler.xml
-.idea/libraries/
-.idea/workspace.xml
+./idea
 *.iml
 
 ### Eclipse ###

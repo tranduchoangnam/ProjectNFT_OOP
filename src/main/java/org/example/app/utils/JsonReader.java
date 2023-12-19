@@ -9,6 +9,7 @@ import java.util.HashMap;
 import java.util.List;
 
 import org.example.app.entity.NftCollection;
+import org.example.app.entity.Twitter;
 
 public class JsonReader {
     public HashMap<String, List<NftCollection>> readFileRarible() throws IOException {
@@ -17,5 +18,12 @@ public class JsonReader {
                 new TypeReference<HashMap<String, List<NftCollection>>>() {
                 });
         return obj;
+    }
+    public static List<Twitter> readFileTwitterData() throws IOException {
+        ObjectMapper mapper = new ObjectMapper();
+        List<Twitter> list = mapper.readValue(new File("src/main/resources/json/TwitterData.json"),
+                new TypeReference<List<Twitter>>() {
+                });
+        return list;
     }
 }
