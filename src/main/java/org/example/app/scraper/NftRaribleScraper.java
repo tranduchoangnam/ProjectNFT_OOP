@@ -8,26 +8,21 @@ import java.lang.InterruptedException;
 import org.example.app.entity.NftCollection;
 import org.example.app.entity.NftMarketplace;
 
-import io.github.bonigarcia.wdm.WebDriverManager;
-
 import org.openqa.selenium.By;
 // import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
 import static org.openqa.selenium.support.ui.ExpectedConditions.presenceOfElementLocated;
 import static org.openqa.selenium.support.ui.ExpectedConditions.elementToBeClickable;
 
-import java.time.Duration;
+public class NftRaribleScraper extends NftScraper {
 
-public class NftCollectionScraper {
-    private final String URL = "https://rarible.com";
-    private NftMarketplace nftMarketplace;
-
-    public NftCollectionScraper() {
-        this.nftMarketplace = new NftMarketplace("Rarible");
-        // scrap();
+    public NftRaribleScraper() {
+        super();
+        this.setNftMarketplace(new NftMarketplace("Rarible"));
+        this.setUrl("https://rarible.com");
+        this.setName();
         try {
             scrap();
         } catch (InterruptedException e) {
@@ -35,23 +30,12 @@ public class NftCollectionScraper {
         }
     }
 
-    public String getName() {
-        return this.nftMarketplace.getName();
-    }
-
     public HashMap<String, List<NftCollection>> getNftInPeriod() {
-        return this.nftMarketplace.getNftInPeriod();
+        return this.getNftMarketplace().getNftInPeriod();
     }
 
-    public void scrap() throws InterruptedException {
-        HashMap<String, List<NftCollection>> nftInPeriod = new HashMap<String, List<NftCollection>>();
-
-        // Selenium setup
-        WebDriverManager.chromedriver().setup();
-        WebDriver driver = new ChromeDriver();
-        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(20));
-        driver.get(URL);
-
+    @Override
+    protected void scrapAction(WebDriver driver, WebDriverWait wait) throws InterruptedException {
         // find trending collections in 1 week
         String[] cssSelectors = { "[data-marker='hot-collections-period-H1']",
                 "[data-marker='hot-collections-period-DAY']", "[data-marker='hot-collections-period-WEEK']",
@@ -100,40 +84,12 @@ public class NftCollectionScraper {
                     continue;
                 }
             }
-            nftInPeriod.put(period[index], danhSachNftCollection);
+            this.setNftInPeriod(period[index], danhSachNftCollection);
             index++;
         }
-        this.nftMarketplace.setNftInPeriod(nftInPeriod);
-        Thread.sleep(2000);
-        driver.quit();
     }
 
     // private static void print(String msg, Object... args) {
     // System.out.println(String.format(msg, args));
     // }
 }
-// demo crawl map location
-
-// jsonObject.put("map", hrefs.get(1).attr("href"));
-
-// String locationName = product.select(".location-name").text();
-// jsonObject.put("name", locationName);
-
-// // Extract and print the location address
-// String locationAddress = product.select(".location-address").text();
-// jsonObject.put("address", locationAddress);
-
-// // Extract and print the location hours open
-// String locationHoursOpen = product.select(".location-hours-open").text();
-// jsonObject.put("hoursOpen", locationHoursOpen);
-
-// Elements hrefs = product.select("a[href]");
-// jsonObject.put("tel", hrefs.get(0).text());
-// jsonObject.put("map", hrefs.get(1).attr("href"));
-// System.out.println(jsonObject.toString() + ',');
-
-// demo search
-// driver.findElement(By.name("q")).sendKeys("cheese" + Keys.ENTER);
-// WebElement firstResult =
-// wait.until(presenceOfElementLocated(By.cssSelector("h3>div")));
-// System.out.println(firstResult.getAttribute("textContent"));

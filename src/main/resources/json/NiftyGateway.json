@@ -1,0 +1,1806 @@
+{
+  "all" : [ {
+    "rank" : "1",
+    "name" : "m",
+    "floorPrice" : "$149.99",
+    "floorChange" : "-",
+    "volume" : "$99,513,195.05",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "2",
+    "name" : "MAX PAIN",
+    "floorPrice" : "$1,349.00",
+    "floorChange" : "-",
+    "volume" : "$24,925,424.08",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "3",
+    "name" : "FewoWorld Paint",
+    "floorPrice" : "$105.00",
+    "floorChange" : "-",
+    "volume" : "$19,724,333.64",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "4",
+    "name" : "A Cube",
+    "floorPrice" : "$1,295.00",
+    "floorChange" : "-",
+    "volume" : "$10,831,594.62",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "5",
+    "name" : "ABUNDANCE",
+    "floorPrice" : "$39,900.00",
+    "floorChange" : "-",
+    "volume" : "$10,521,557.91",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "6",
+    "name" : "The Bitcoin Angel (Open Edition)",
+    "floorPrice" : "$358.00",
+    "floorChange" : "-",
+    "volume" : "$10,458,616.13",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "7",
+    "name" : "Multiplanetary by Tauland Sinani",
+    "floorPrice" : "$500.00",
+    "floorChange" : "-",
+    "volume" : "$10,000,000.00",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "8",
+    "name" : "Why would I care I'm just a cat?",
+    "floorPrice" : "$1,500.00",
+    "floorChange" : "-",
+    "volume" : "$7,015,528.90",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "9",
+    "name" : "CROSSROAD",
+    "floorPrice" : "---",
+    "floorChange" : "-",
+    "volume" : "$6,666,666.60",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "10",
+    "name" : "BULL RUN",
+    "floorPrice" : "$34,990.00",
+    "floorChange" : "-",
+    "volume" : "$6,632,720.29",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "11",
+    "name" : "OCEAN FRONT (beeple)",
+    "floorPrice" : "---",
+    "floorChange" : "-",
+    "volume" : "$6,000,000.00",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "12",
+    "name" : "Doodles",
+    "floorPrice" : "$3,095.45",
+    "floorChange" : "-",
+    "volume" : "$5,495,932.80",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "13",
+    "name" : "FACES",
+    "floorPrice" : "$99.99",
+    "floorChange" : "-",
+    "volume" : "$5,256,475.46",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "14",
+    "name" : "Karma Chameleon",
+    "floorPrice" : "$374.00",
+    "floorChange" : "-",
+    "volume" : "$4,148,201.05",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "15",
+    "name" : "Beeple Everydays - Raw",
+    "floorPrice" : "$199,999.00",
+    "floorChange" : "-",
+    "volume" : "$4,087,424.07",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "16",
+    "name" : "Genesis.001",
+    "floorPrice" : "$495.00",
+    "floorChange" : "-",
+    "volume" : "$3,960,028.42",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "17",
+    "name" : "Déjà Vu",
+    "floorPrice" : "$3,250.00",
+    "floorChange" : "-",
+    "volume" : "$3,957,533.90",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "18",
+    "name" : "Victor and Victoria by FEWOCiOUS",
+    "floorPrice" : "$750.00",
+    "floorChange" : "-",
+    "volume" : "$3,754,095.75",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "19",
+    "name" : "Machine Hallucinations - New York City",
+    "floorPrice" : "$2,650.00",
+    "floorChange" : "-",
+    "volume" : "$3,736,870.94",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "20",
+    "name" : "Mars",
+    "floorPrice" : "$650.00",
+    "floorChange" : "-",
+    "volume" : "$3,694,615.18",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "21",
+    "name" : "Mutant Ape Yacht Club",
+    "floorPrice" : "$11,471.50",
+    "floorChange" : "-",
+    "volume" : "$3,685,795.57",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "22",
+    "name" : "INTO THE ETHER",
+    "floorPrice" : "$42,069.00",
+    "floorChange" : "-",
+    "volume" : "$3,539,329.62",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "23",
+    "name" : "Afterburn",
+    "floorPrice" : "$6,000.00",
+    "floorChange" : "-",
+    "volume" : "$3,366,931.25",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "24",
+    "name" : "Le Anime",
+    "floorPrice" : "$230.00",
+    "floorChange" : "-",
+    "volume" : "$3,222,024.55",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "25",
+    "name" : "Awkward Astronauts",
+    "floorPrice" : "$75.00",
+    "floorChange" : "-",
+    "volume" : "$3,191,282.01",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "26",
+    "name" : "Chapter V: Glitch",
+    "floorPrice" : "$175.00",
+    "floorChange" : "-",
+    "volume" : "$3,123,470.16",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "27",
+    "name" : "Chapter 7: Candle",
+    "floorPrice" : "$159.00",
+    "floorChange" : "-",
+    "volume" : "$2,898,713.48",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "28",
+    "name" : "Earth",
+    "floorPrice" : "$500.00",
+    "floorChange" : "-",
+    "volume" : "$2,821,856.22",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "29",
+    "name" : "Aku Chapter VI: Home",
+    "floorPrice" : "$239.00",
+    "floorChange" : "-",
+    "volume" : "$2,702,423.04",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "30",
+    "name" : "CLONE X",
+    "floorPrice" : "$3,366.83",
+    "floorChange" : "-",
+    "volume" : "$2,677,046.21",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "31",
+    "name" : "LOSTPOETS",
+    "floorPrice" : "$163.72",
+    "floorChange" : "-",
+    "volume" : "$2,572,027.55",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "32",
+    "name" : "Aku: Chapter III",
+    "floorPrice" : "$3,250.00",
+    "floorChange" : "-",
+    "volume" : "$2,529,920.80",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "33",
+    "name" : "Aku Chapter IX: The Mission",
+    "floorPrice" : "$248.00",
+    "floorChange" : "-",
+    "volume" : "$2,373,432.82",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "34",
+    "name" : "Forever Mamba",
+    "floorPrice" : "$875.00",
+    "floorChange" : "-",
+    "volume" : "$2,330,386.79",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "35",
+    "name" : "FEWO DRIP",
+    "floorPrice" : "$88,888.88",
+    "floorChange" : "-",
+    "volume" : "$2,314,326.64",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "36",
+    "name" : "The Last Stand of the Nation State",
+    "floorPrice" : "$3,530.00",
+    "floorChange" : "-",
+    "volume" : "$2,275,409.99",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "37",
+    "name" : "Fusion",
+    "floorPrice" : "$840.00",
+    "floorChange" : "-",
+    "volume" : "$2,210,483.15",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "38",
+    "name" : "Aku Chapter X: The Finale",
+    "floorPrice" : "$169.00",
+    "floorChange" : "-",
+    "volume" : "$2,195,900.08",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "39",
+    "name" : "character X",
+    "floorPrice" : "$242.00",
+    "floorChange" : "-",
+    "volume" : "$2,147,003.02",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "40",
+    "name" : "Extrusion",
+    "floorPrice" : "$1,100.00",
+    "floorChange" : "-",
+    "volume" : "$2,127,630.01",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "41",
+    "name" : "Welcome to Aku World: Chapter II",
+    "floorPrice" : "$1,250.00",
+    "floorChange" : "-",
+    "volume" : "$2,116,334.23",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "42",
+    "name" : "Eroding and Reforming Bust of Rome (One Year)",
+    "floorPrice" : "$1,300.00",
+    "floorChange" : "-",
+    "volume" : "$2,068,875.42",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "43",
+    "name" : "POLITICS IS BULLSHIT",
+    "floorPrice" : "$222,696.90",
+    "floorChange" : "-",
+    "volume" : "$2,012,460.22",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "44",
+    "name" : "FEWO SHOE RARE",
+    "floorPrice" : "$1,500.00",
+    "floorChange" : "-",
+    "volume" : "$1,940,529.24",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "45",
+    "name" : "Five Cubes",
+    "floorPrice" : "$1,700.00",
+    "floorChange" : "-",
+    "volume" : "$1,850,809.33",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "46",
+    "name" : "run",
+    "floorPrice" : "$588.00",
+    "floorChange" : "-",
+    "volume" : "$1,823,152.63",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "47",
+    "name" : "Moving On",
+    "floorPrice" : "$5,927.67",
+    "floorChange" : "-",
+    "volume" : "$1,799,621.58",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "48",
+    "name" : "FEWO SHOE LEGENDARY",
+    "floorPrice" : "$99,000.00",
+    "floorChange" : "-",
+    "volume" : "$1,792,620.04",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "49",
+    "name" : "It's Raining Gucci",
+    "floorPrice" : "$369.00",
+    "floorChange" : "-",
+    "volume" : "$1,784,248.47",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "50",
+    "name" : "INVALIDITY// (Zedd x Fvckrender)",
+    "floorPrice" : "$420.00",
+    "floorChange" : "-",
+    "volume" : "$1,770,943.06",
+    "volumeChange" : "-",
+    "items" : -1,
+    "owners" : -1
+  } ],
+  "1d" : [ {
+    "rank" : "1",
+    "name" : "Together - Classic",
+    "floorPrice" : "$999.00",
+    "floorChange" : "-",
+    "volume" : "$800.00",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "2",
+    "name" : "Searching For Me - Classic",
+    "floorPrice" : "$999.00",
+    "floorChange" : "-",
+    "volume" : "$800.00",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "3",
+    "name" : "Prison #9",
+    "floorPrice" : "$30.00",
+    "floorChange" : "-",
+    "volume" : "$361.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "4",
+    "name" : "The Starbucks® Green Apron Stamp",
+    "floorPrice" : "$63.00",
+    "floorChange" : "-",
+    "volume" : "$300.00",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "5",
+    "name" : "STRIFE",
+    "floorPrice" : "$5,000,000.00",
+    "floorChange" : "-",
+    "volume" : "$198.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "6",
+    "name" : "Twin Tails Stamp",
+    "floorPrice" : "$107.69",
+    "floorChange" : "-",
+    "volume" : "$196.01",
+    "volumeChange" : "+0.51%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "7",
+    "name" : "The Most Valuable Artwork",
+    "floorPrice" : "$17.48",
+    "floorChange" : "-",
+    "volume" : "$168.64",
+    "volumeChange" : "-88.5%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "8",
+    "name" : "Pathos",
+    "floorPrice" : "$85.00",
+    "floorChange" : "-",
+    "volume" : "$135.00",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "9",
+    "name" : "m",
+    "floorPrice" : "$149.99",
+    "floorChange" : "-",
+    "volume" : "$100.00",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "10",
+    "name" : "TREAD",
+    "floorPrice" : "---",
+    "floorChange" : "-",
+    "volume" : "$99.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "11",
+    "name" : "MY ADVERSARIAL FRIEND - THE FABULOUSLY REKT - ROBNESS V2",
+    "floorPrice" : "$55.00",
+    "floorChange" : "-",
+    "volume" : "$91.00",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "12",
+    "name" : "Doing Good Journey Stamp",
+    "floorPrice" : "$6.00",
+    "floorChange" : "-",
+    "volume" : "$73.99",
+    "volumeChange" : "+960.03%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "13",
+    "name" : "The Darkest Hour",
+    "floorPrice" : "$179.00",
+    "floorChange" : "-",
+    "volume" : "$66.00",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "14",
+    "name" : "NEW B. Angel",
+    "floorPrice" : "$78.99",
+    "floorChange" : "-",
+    "volume" : "$65.00",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "15",
+    "name" : "The Dance",
+    "floorPrice" : "$225.00",
+    "floorChange" : "-",
+    "volume" : "$50.00",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "16",
+    "name" : "Prison #10",
+    "floorPrice" : "---",
+    "floorChange" : "-",
+    "volume" : "$45.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "17",
+    "name" : "Nifty Pass",
+    "floorPrice" : "$69.00",
+    "floorChange" : "-",
+    "volume" : "$35.00",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "18",
+    "name" : "The 100 Club",
+    "floorPrice" : "$11.99",
+    "floorChange" : "-",
+    "volume" : "$31.75",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "19",
+    "name" : "PURSUIT",
+    "floorPrice" : "$50.00",
+    "floorChange" : "-",
+    "volume" : "$25.00",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "20",
+    "name" : "Lucky Neko!",
+    "floorPrice" : "$10.71",
+    "floorChange" : "-",
+    "volume" : "$25.00",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "21",
+    "name" : "Synesthesia Vol. 1 - 001",
+    "floorPrice" : "---",
+    "floorChange" : "-",
+    "volume" : "$25.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "22",
+    "name" : "The Marble Zeus",
+    "floorPrice" : "$69.00",
+    "floorChange" : "-",
+    "volume" : "$25.00",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "23",
+    "name" : "DIGITAL PULSE",
+    "floorPrice" : "---",
+    "floorChange" : "-",
+    "volume" : "$25.00",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "24",
+    "name" : "Synesthesia Vol. 1 - 002",
+    "floorPrice" : "---",
+    "floorChange" : "-",
+    "volume" : "$25.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "25",
+    "name" : "Hello, Human!",
+    "floorPrice" : "$28.00",
+    "floorChange" : "-",
+    "volume" : "$20.00",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "26",
+    "name" : "Race Against Time",
+    "floorPrice" : "$18.98",
+    "floorChange" : "-",
+    "volume" : "$18.99",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "27",
+    "name" : "Christmas Gift \uD83C\uDF81",
+    "floorPrice" : "$19.00",
+    "floorChange" : "-",
+    "volume" : "$15.00",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "28",
+    "name" : "Voice-mail",
+    "floorPrice" : "$200.00",
+    "floorChange" : "-",
+    "volume" : "$15.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "29",
+    "name" : "FEEL IT",
+    "floorPrice" : "$9.10",
+    "floorChange" : "-",
+    "volume" : "$15.00",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "30",
+    "name" : "Emotionally Chained ⛓️\uD83E\uDDE0⛓️",
+    "floorPrice" : "$30.00",
+    "floorChange" : "-",
+    "volume" : "$15.00",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "31",
+    "name" : "1. Sleep tight naughty baby bear",
+    "floorPrice" : "$25.00",
+    "floorChange" : "-",
+    "volume" : "$15.00",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "32",
+    "name" : "Teddy Bear Shrek",
+    "floorPrice" : "$30.00",
+    "floorChange" : "-",
+    "volume" : "$14.00",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "33",
+    "name" : "2023 Unwrapped Journey Stamp",
+    "floorPrice" : "$6.00",
+    "floorChange" : "-",
+    "volume" : "$10.50",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "34",
+    "name" : "bobby",
+    "floorPrice" : "$169.00",
+    "floorChange" : "-",
+    "volume" : "$10.00",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "35",
+    "name" : "Starbucks® Odyssey Avatar Collection",
+    "floorPrice" : "$16.50",
+    "floorChange" : "-",
+    "volume" : "$10.00",
+    "volumeChange" : "-9.09%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "36",
+    "name" : "The Pursuit",
+    "floorPrice" : "$28.00",
+    "floorChange" : "-",
+    "volume" : "$10.00",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "37",
+    "name" : "Gradual Secrets",
+    "floorPrice" : "$2,950,000.00",
+    "floorChange" : "-",
+    "volume" : "$10.00",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "38",
+    "name" : "Furious Flame",
+    "floorPrice" : "$369.00",
+    "floorChange" : "-",
+    "volume" : "$10.00",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "39",
+    "name" : "POW",
+    "floorPrice" : "$3.32",
+    "floorChange" : "-",
+    "volume" : "$7.23",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "40",
+    "name" : "20 Years of PSL® Journey Stamp",
+    "floorPrice" : "$8.00",
+    "floorChange" : "-",
+    "volume" : "$6.00",
+    "volumeChange" : "-29.33%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "41",
+    "name" : "PILOT",
+    "floorPrice" : "$5.95",
+    "floorChange" : "-",
+    "volume" : "$5.00",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "42",
+    "name" : "GOLDEN PYRAMIDS",
+    "floorPrice" : "$5.00",
+    "floorChange" : "-",
+    "volume" : "$5.00",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "43",
+    "name" : "THE STORY OF A FALL",
+    "floorPrice" : "$20.00",
+    "floorChange" : "-",
+    "volume" : "$5.00",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "44",
+    "name" : "The 1000 Club",
+    "floorPrice" : "$8.99",
+    "floorChange" : "-",
+    "volume" : "$4.00",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "45",
+    "name" : "HIDDEN",
+    "floorPrice" : "$12.00",
+    "floorChange" : "-",
+    "volume" : "$3.85",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "46",
+    "name" : "God is pain",
+    "floorPrice" : "$7.00",
+    "floorChange" : "-",
+    "volume" : "$3.85",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "47",
+    "name" : "Mad #6",
+    "floorPrice" : "$3.99",
+    "floorChange" : "-",
+    "volume" : "$3.50",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "48",
+    "name" : "Happy Doc Hollidays",
+    "floorPrice" : "$1.19",
+    "floorChange" : "-",
+    "volume" : "$3.37",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "49",
+    "name" : "Fuk Everything",
+    "floorPrice" : "$5.00",
+    "floorChange" : "-",
+    "volume" : "$3.00",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "50",
+    "name" : "Key to the Memeverse",
+    "floorPrice" : "$0.94",
+    "floorChange" : "-",
+    "volume" : "$2.97",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  } ],
+  "1w" : [ {
+    "rank" : "1",
+    "name" : "MAX PAIN",
+    "floorPrice" : "$1,349.00",
+    "floorChange" : "-",
+    "volume" : "$4,984.00",
+    "volumeChange" : "-51.06%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "2",
+    "name" : "The Most Valuable Artwork",
+    "floorPrice" : "$17.48",
+    "floorChange" : "-",
+    "volume" : "$2,276.69",
+    "volumeChange" : "+6.95%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "3",
+    "name" : "Cypher Deos: Purgatorio",
+    "floorPrice" : "---",
+    "floorChange" : "-",
+    "volume" : "$1,999.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "4",
+    "name" : "Captain Apemo - Genesis",
+    "floorPrice" : "$300.00",
+    "floorChange" : "-",
+    "volume" : "$1,324.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "5",
+    "name" : "The Siren Collection Stamp",
+    "floorPrice" : "$315.00",
+    "floorChange" : "-",
+    "volume" : "$1,265.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "6",
+    "name" : "Pride (Humility)",
+    "floorPrice" : "$15,000.00",
+    "floorChange" : "-",
+    "volume" : "$1,000.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "7",
+    "name" : "Twin Tails Stamp",
+    "floorPrice" : "$107.69",
+    "floorChange" : "-",
+    "volume" : "$902.93",
+    "volumeChange" : "-24.18%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "8",
+    "name" : "Playing Against Death",
+    "floorPrice" : "---",
+    "floorChange" : "-",
+    "volume" : "$900.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "9",
+    "name" : "The Holiday Cup Collection Stamp",
+    "floorPrice" : "$19.97",
+    "floorChange" : "-",
+    "volume" : "$862.18",
+    "volumeChange" : "-1.85%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "10",
+    "name" : "Stardust Meadow",
+    "floorPrice" : "$6,666.00",
+    "floorChange" : "-",
+    "volume" : "$810.00",
+    "volumeChange" : "---",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "11",
+    "name" : "Searching For Me - Classic",
+    "floorPrice" : "$999.00",
+    "floorChange" : "-",
+    "volume" : "$800.00",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "12",
+    "name" : "Together - Classic",
+    "floorPrice" : "$999.00",
+    "floorChange" : "-",
+    "volume" : "$800.00",
+    "volumeChange" : "+>10,000%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "13",
+    "name" : "Zen Master (Still Trippin’)",
+    "floorPrice" : "---",
+    "floorChange" : "-",
+    "volume" : "$777.77",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "14",
+    "name" : "FLUX",
+    "floorPrice" : "$1,000.00",
+    "floorChange" : "-",
+    "volume" : "$750.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "15",
+    "name" : "The Starbucks® Green Apron Stamp",
+    "floorPrice" : "$63.00",
+    "floorChange" : "-",
+    "volume" : "$706.25",
+    "volumeChange" : "+27.65%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "16",
+    "name" : "CHARGED",
+    "floorPrice" : "$77.00",
+    "floorChange" : "-",
+    "volume" : "$609.00",
+    "volumeChange" : "---",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "17",
+    "name" : "Shine Bright",
+    "floorPrice" : "---",
+    "floorChange" : "-",
+    "volume" : "$600.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "18",
+    "name" : "The Sunset",
+    "floorPrice" : "$600.00",
+    "floorChange" : "-",
+    "volume" : "$599.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "19",
+    "name" : "SCROLL-BID-COLLECT",
+    "floorPrice" : "$345.00",
+    "floorChange" : "-",
+    "volume" : "$561.42",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "20",
+    "name" : "Holiday Cheer Stamp",
+    "floorPrice" : "$300.00",
+    "floorChange" : "-",
+    "volume" : "$550.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "21",
+    "name" : "20 Years of PSL® Journey Stamp",
+    "floorPrice" : "$8.00",
+    "floorChange" : "-",
+    "volume" : "$514.49",
+    "volumeChange" : "+1.18%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "22",
+    "name" : "Moon Bunnies",
+    "floorPrice" : "$2,500.00",
+    "floorChange" : "-",
+    "volume" : "$494.00",
+    "volumeChange" : "---",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "23",
+    "name" : "Isolophilia",
+    "floorPrice" : "---",
+    "floorChange" : "-",
+    "volume" : "$460.04",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "24",
+    "name" : "Grasstronauts Hate Him",
+    "floorPrice" : "---",
+    "floorChange" : "-",
+    "volume" : "$460.04",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "25",
+    "name" : "The First Store Collection Stamp",
+    "floorPrice" : "$58.80",
+    "floorChange" : "-",
+    "volume" : "$411.04",
+    "volumeChange" : "-19.09%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "26",
+    "name" : "The 100 Club",
+    "floorPrice" : "$11.99",
+    "floorChange" : "-",
+    "volume" : "$408.50",
+    "volumeChange" : "---",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "27",
+    "name" : "ALMOST SUMMER",
+    "floorPrice" : "$1,399.00",
+    "floorChange" : "-",
+    "volume" : "$400.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "28",
+    "name" : "m",
+    "floorPrice" : "$149.99",
+    "floorChange" : "-",
+    "volume" : "$368.00",
+    "volumeChange" : "+37.31%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "29",
+    "name" : "Prison #9",
+    "floorPrice" : "$30.00",
+    "floorChange" : "-",
+    "volume" : "$361.00",
+    "volumeChange" : "---",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "30",
+    "name" : "ALMOST AUTUMN",
+    "floorPrice" : "$1,000.00",
+    "floorChange" : "-",
+    "volume" : "$359.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "31",
+    "name" : "can we kick it?",
+    "floorPrice" : "---",
+    "floorChange" : "-",
+    "volume" : "$350.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "32",
+    "name" : "Having a Ball",
+    "floorPrice" : "---",
+    "floorChange" : "-",
+    "volume" : "$330.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "33",
+    "name" : "The Road Ahead",
+    "floorPrice" : "$325.00",
+    "floorChange" : "-",
+    "volume" : "$320.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "34",
+    "name" : "Get money",
+    "floorPrice" : "---",
+    "floorChange" : "-",
+    "volume" : "$300.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "35",
+    "name" : "Bear",
+    "floorPrice" : "$399.00",
+    "floorChange" : "-",
+    "volume" : "$300.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "36",
+    "name" : "Tone Poem",
+    "floorPrice" : "$1,475.00",
+    "floorChange" : "-",
+    "volume" : "$299.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "37",
+    "name" : "After Work grp 3",
+    "floorPrice" : "---",
+    "floorChange" : "-",
+    "volume" : "$295.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "38",
+    "name" : "BLOOM",
+    "floorPrice" : "$7,800,000.00",
+    "floorChange" : "-",
+    "volume" : "$290.00",
+    "volumeChange" : "---",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "39",
+    "name" : "Ethereum Falcon by Young & Sick",
+    "floorPrice" : "$199.00",
+    "floorChange" : "-",
+    "volume" : "$289.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "40",
+    "name" : "The Tornado Cash",
+    "floorPrice" : "$166.00",
+    "floorChange" : "-",
+    "volume" : "$276.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "41",
+    "name" : "The Bitcoin Angel (Open Edition)",
+    "floorPrice" : "$358.00",
+    "floorChange" : "-",
+    "volume" : "$275.32",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "42",
+    "name" : "Art in Motion",
+    "floorPrice" : "---",
+    "floorChange" : "-",
+    "volume" : "$260.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "43",
+    "name" : "Don't overthink it!",
+    "floorPrice" : "---",
+    "floorChange" : "-",
+    "volume" : "$250.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "44",
+    "name" : "Unidad y Paz",
+    "floorPrice" : "---",
+    "floorChange" : "-",
+    "volume" : "$250.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "45",
+    "name" : "Dichótomos Natura by Zigor",
+    "floorPrice" : "$496.00",
+    "floorChange" : "-",
+    "volume" : "$250.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "46",
+    "name" : "Awkward Astronauts",
+    "floorPrice" : "$75.00",
+    "floorChange" : "-",
+    "volume" : "$234.85",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "47",
+    "name" : "JOYWORLD Regulation Basketball",
+    "floorPrice" : "---",
+    "floorChange" : "-",
+    "volume" : "$225.69",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "48",
+    "name" : "Journey",
+    "floorPrice" : "---",
+    "floorChange" : "-",
+    "volume" : "$201.00",
+    "volumeChange" : "---",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "49",
+    "name" : "“Base Camp” (C3)",
+    "floorPrice" : "$750.00",
+    "floorChange" : "-",
+    "volume" : "$200.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "50",
+    "name" : "STRIFE",
+    "floorPrice" : "$5,000,000.00",
+    "floorChange" : "-",
+    "volume" : "$198.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  } ],
+  "1m" : [ {
+    "rank" : "1",
+    "name" : "Full Set",
+    "floorPrice" : "---",
+    "floorChange" : "-",
+    "volume" : "$38,500.00",
+    "volumeChange" : "---",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "2",
+    "name" : "SECOND WAVE - center",
+    "floorPrice" : "$1,000.00",
+    "floorChange" : "-",
+    "volume" : "$20,250.00",
+    "volumeChange" : "---",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "3",
+    "name" : "SECOND WAVE - left",
+    "floorPrice" : "---",
+    "floorChange" : "-",
+    "volume" : "$18,750.00",
+    "volumeChange" : "---",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "4",
+    "name" : "SECOND WAVE - right",
+    "floorPrice" : "$1,898.00",
+    "floorChange" : "-",
+    "volume" : "$17,750.00",
+    "volumeChange" : "---",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "5",
+    "name" : "m",
+    "floorPrice" : "$149.99",
+    "floorChange" : "-",
+    "volume" : "$15,596.97",
+    "volumeChange" : "+0.65%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "6",
+    "name" : "The Siren Collection Stamp",
+    "floorPrice" : "$315.00",
+    "floorChange" : "-",
+    "volume" : "$12,758.50",
+    "volumeChange" : "-4.2%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "7",
+    "name" : "The Holiday Cup Collection Stamp",
+    "floorPrice" : "$19.97",
+    "floorChange" : "-",
+    "volume" : "$12,231.35",
+    "volumeChange" : "-10.33%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "8",
+    "name" : "MAX PAIN",
+    "floorPrice" : "$1,349.00",
+    "floorChange" : "-",
+    "volume" : "$11,406.40",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "9",
+    "name" : "The First Store Collection Stamp",
+    "floorPrice" : "$58.80",
+    "floorChange" : "-",
+    "volume" : "$10,488.36",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "10",
+    "name" : "Holiday Cheer Stamp",
+    "floorPrice" : "$300.00",
+    "floorChange" : "-",
+    "volume" : "$10,015.69",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "11",
+    "name" : "GIGACHAD",
+    "floorPrice" : "$29,999.00",
+    "floorChange" : "-",
+    "volume" : "$10,000.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "12",
+    "name" : "INFECTED",
+    "floorPrice" : "$500,000.00",
+    "floorChange" : "-",
+    "volume" : "$8,500.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "13",
+    "name" : "The Starbucks® Green Apron Stamp",
+    "floorPrice" : "$63.00",
+    "floorChange" : "-",
+    "volume" : "$7,375.84",
+    "volumeChange" : "+4.24%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "14",
+    "name" : "Twin Tails Stamp",
+    "floorPrice" : "$107.69",
+    "floorChange" : "-",
+    "volume" : "$7,319.06",
+    "volumeChange" : "---",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "15",
+    "name" : "NDA",
+    "floorPrice" : "---",
+    "floorChange" : "-",
+    "volume" : "$5,060.42",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "16",
+    "name" : "REVOLUTION",
+    "floorPrice" : "$3,500.00",
+    "floorChange" : "-",
+    "volume" : "$4,839.00",
+    "volumeChange" : "---",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "17",
+    "name" : "The PSL® Collection: The Venti Stamp",
+    "floorPrice" : "$119.00",
+    "floorChange" : "-",
+    "volume" : "$3,860.42",
+    "volumeChange" : "-2.55%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "18",
+    "name" : "Forgotten",
+    "floorPrice" : "$1,200.00",
+    "floorChange" : "-",
+    "volume" : "$3,844.00",
+    "volumeChange" : "---",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "19",
+    "name" : "Awkward Astronauts",
+    "floorPrice" : "$75.00",
+    "floorChange" : "-",
+    "volume" : "$3,566.31",
+    "volumeChange" : "-3.28%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "20",
+    "name" : "T69 Legendary by Alotta Money",
+    "floorPrice" : "---",
+    "floorChange" : "-",
+    "volume" : "$3,500.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "21",
+    "name" : "Isolophilia",
+    "floorPrice" : "---",
+    "floorChange" : "-",
+    "volume" : "$3,373.60",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "22",
+    "name" : "2023 Unwrapped Journey Stamp",
+    "floorPrice" : "$6.00",
+    "floorChange" : "-",
+    "volume" : "$2,621.45",
+    "volumeChange" : "---",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "23",
+    "name" : "The Most Valuable Artwork",
+    "floorPrice" : "$17.48",
+    "floorChange" : "-",
+    "volume" : "$2,599.31",
+    "volumeChange" : "+6.09%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "24",
+    "name" : "Grasstronauts Hate Him",
+    "floorPrice" : "---",
+    "floorChange" : "-",
+    "volume" : "$2,376.86",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "25",
+    "name" : "9th Raider Lunar Edition Artifact 001 \"Frenchie\"",
+    "floorPrice" : "$7,850,000.00",
+    "floorChange" : "-",
+    "volume" : "$2,376.00",
+    "volumeChange" : "---",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "26",
+    "name" : "Alone",
+    "floorPrice" : "$500.00",
+    "floorChange" : "-",
+    "volume" : "$2,375.00",
+    "volumeChange" : "---",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "27",
+    "name" : "Ten Cubes",
+    "floorPrice" : "$12,000.00",
+    "floorChange" : "-",
+    "volume" : "$2,350.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "28",
+    "name" : "9th Raider Lunar Edition Artifact 003-\"Lissa Lost\"",
+    "floorPrice" : "$777,777.00",
+    "floorChange" : "-",
+    "volume" : "$2,328.00",
+    "volumeChange" : "---",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "29",
+    "name" : "Starbucks® Odyssey Avatar Collection",
+    "floorPrice" : "$16.50",
+    "floorChange" : "-",
+    "volume" : "$2,221.05",
+    "volumeChange" : "+0.45%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "30",
+    "name" : "The Last Stand of the Nation State",
+    "floorPrice" : "$3,530.00",
+    "floorChange" : "-",
+    "volume" : "$2,000.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "31",
+    "name" : "Together - Classic",
+    "floorPrice" : "$999.00",
+    "floorChange" : "-",
+    "volume" : "$2,000.00",
+    "volumeChange" : "+66.67%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "32",
+    "name" : "Cypher Deos: Purgatorio",
+    "floorPrice" : "---",
+    "floorChange" : "-",
+    "volume" : "$1,999.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "33",
+    "name" : "Captain Apemo - Genesis",
+    "floorPrice" : "$300.00",
+    "floorChange" : "-",
+    "volume" : "$1,894.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "34",
+    "name" : "Bitcoin Balloon",
+    "floorPrice" : "$185.00",
+    "floorChange" : "-",
+    "volume" : "$1,875.99",
+    "volumeChange" : "---",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "35",
+    "name" : "Aku: Chapter III",
+    "floorPrice" : "$3,250.00",
+    "floorChange" : "-",
+    "volume" : "$1,800.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "36",
+    "name" : "9th Raider Lunar Edition Artifact 002-\"Nuns with Guns\"",
+    "floorPrice" : "$100,000.00",
+    "floorChange" : "-",
+    "volume" : "$1,782.00",
+    "volumeChange" : "---",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "37",
+    "name" : "Redacted",
+    "floorPrice" : "---",
+    "floorChange" : "-",
+    "volume" : "$1,685.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "38",
+    "name" : "#10CRYPTO ART BEGINS on BOARD | The NFT Magazine",
+    "floorPrice" : "$48.00",
+    "floorChange" : "-",
+    "volume" : "$1,683.00",
+    "volumeChange" : "---",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "39",
+    "name" : "SCROLL-BID-COLLECT",
+    "floorPrice" : "$345.00",
+    "floorChange" : "-",
+    "volume" : "$1,678.58",
+    "volumeChange" : "-14.38%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "40",
+    "name" : "Blessed be the fruit",
+    "floorPrice" : "$120.00",
+    "floorChange" : "-",
+    "volume" : "$1,675.00",
+    "volumeChange" : "---",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "41",
+    "name" : "Genesis.001",
+    "floorPrice" : "$495.00",
+    "floorChange" : "-",
+    "volume" : "$1,655.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "42",
+    "name" : "Prime Example",
+    "floorPrice" : "$4,000.00",
+    "floorChange" : "-",
+    "volume" : "$1,508.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "43",
+    "name" : "Future Tales",
+    "floorPrice" : "$1,500.00",
+    "floorChange" : "-",
+    "volume" : "$1,400.00",
+    "volumeChange" : "---",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "44",
+    "name" : "Transmutation: Out of Thin Air",
+    "floorPrice" : "---",
+    "floorChange" : "-",
+    "volume" : "$1,250.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "45",
+    "name" : "The Bitcoin Angel (Open Edition)",
+    "floorPrice" : "$358.00",
+    "floorChange" : "-",
+    "volume" : "$1,200.01",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "46",
+    "name" : "Eroding and Reforming Bust of Rome (One Year)",
+    "floorPrice" : "$1,300.00",
+    "floorChange" : "-",
+    "volume" : "$1,192.26",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "47",
+    "name" : "ETH BOY",
+    "floorPrice" : "$199.00",
+    "floorChange" : "-",
+    "volume" : "$1,185.00",
+    "volumeChange" : "---",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "48",
+    "name" : "The PSL® Collection: Spiced Stamp",
+    "floorPrice" : "$74.00",
+    "floorChange" : "-",
+    "volume" : "$1,071.15",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "49",
+    "name" : "20 Years of PSL® Journey Stamp",
+    "floorPrice" : "$8.00",
+    "floorChange" : "-",
+    "volume" : "$1,066.02",
+    "volumeChange" : "-0.33%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "50",
+    "name" : "Pride (Humility)",
+    "floorPrice" : "$15,000.00",
+    "floorChange" : "-",
+    "volume" : "$1,000.00",
+    "volumeChange" : "0%",
+    "items" : -1,
+    "owners" : -1
+  } ]
+}
