@@ -1,0 +1,28 @@
+#page1{
+ -fx-background-color:  #f2ebf3;  /* fallback for old browsers */
+  -fx-background-color:  -webkit-linear-gradient(to right, #E2E2E2, #f2ebf3);  /* Chrome 10-25, Safari 5.1-6 */
+-fx-background-color: linear-gradient(to right, #E2E2E2, #f2ebf3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+#menu{
+  -fx-background-color: white;
+  -fx-background-radius: 80px;
+  -fx-effect: dropshadow(gaussian, rgba(59, 58, 59, 0.35), 2, 3, 5, 3);
+
+}
+#menu1{
+  -fx-background-radius: 80px;
+  -fx-background-color: #1D2B64;  /* fallback for old browsers */
+ -fx-background-color: -webkit-linear-gradient(to right, #1D2B64, #F8CDDA);
+  -fx-background-color: linear-gradient(to right, #1D2B64, #F8CDDA);
+}
+#menu2{
+    -fx-font-size: 21px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #511f52;
+}
+#menu3{
+    -fx-font-size: 15px;
+    -fx-text-fill: #511f52;
+}
