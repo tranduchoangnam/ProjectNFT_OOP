@@ -17,8 +17,8 @@ public class TwitterService {
             allTweets = new ArrayList<>();
         }
     }
-    public List<Tweet> searchTweetsByHashtag(String hashtag) {
-        List<Tweet> filteredTweets = new ArrayList<>();
+    public ArrayList<Tweet> searchTweetsByHashtag(String hashtag) {
+        ArrayList<Tweet> filteredTweets = new ArrayList<>();
         if (allTweets == null || hashtag == null || hashtag.isEmpty()) {
             return filteredTweets;
         }

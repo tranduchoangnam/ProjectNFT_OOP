@@ -28,6 +28,10 @@ public class HelloApplication extends Application {
 			e.printStackTrace();
 		}
 	}
+
+
+
+
 	public void initialize() throws IOException {System.out.println("Controller initialized!");}
 
 	public static void main(String[] args) {
