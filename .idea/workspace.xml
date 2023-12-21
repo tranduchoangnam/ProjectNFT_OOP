@@ -5,68 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13d13618-811c-4d50-bd43-f35c47a0dbf7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/JavaFx/Controller/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/JavaFx/Controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/JavaFx/Controller/HotController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/JavaFx/Controller/SearchController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/JavaFx/Controller/SearchDataController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/JavaFx/objects/hastag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/HotPage.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/Hotdaydata.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/Hotmonthdata.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/Hotweekdata.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/SearchPage.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/SearchPageData.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/hello-view.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/hello-view.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/page2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/day.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/icon1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/icon2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/icon3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/icon4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/icon5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/icon6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/icon7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/iconsearch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/idea.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/ideal1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/im1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/month.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/page1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/page10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/page11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/page12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/page13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/page15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/page16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/page17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/page18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/page2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/page3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/page4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/page5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/page6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/page7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/page8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/page9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/search1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/searchicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/week.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/JavaFx/Controller/HelloFX.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/JavaFx/Controller/HelloFXController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/hellofx.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/JavaFx/Controller/SearchDataController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/app/JavaFx/Controller/SearchDataController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/SearchPageData.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/SearchPageData.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +60,7 @@
     "Maven.ProjectNFT [c].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop",
+    "git-widget-placeholder": "feature/uinew",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/ProjectNFT/src/main/resources/fxml",
@@ -137,6 +78,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\ProjectNFT\src\main\resources\fxml" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="org.example.app.JavaFx.Controller" />
     </key>
   </component>
   <component name="RunManager">

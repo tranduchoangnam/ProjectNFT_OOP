@@ -3,6 +3,7 @@
 <?import java.net.URL?>
 <?import javafx.scene.control.Button?>
 <?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
 <?import javafx.scene.control.Separator?>
 <?import javafx.scene.control.TextField?>
 <?import javafx.scene.image.Image?>
@@ -48,17 +49,15 @@
         <Pane layoutX="293.0" prefHeight="757.0" prefWidth="900.0">
             <children>
                 <TextField layoutX="189.0" layoutY="79.0" prefHeight="46.0" prefWidth="456.0" style="-fx-border-color: grey; -fx-border-width: 1px; -fx-border-radius: 20px;" />
-                <Pane layoutX="38.0" layoutY="291.0" prefHeight="466.0" prefWidth="865.0">
+                <Pane layoutX="39.0" layoutY="291.0" prefHeight="466.0" prefWidth="865.0">
                     <children>
-                        <Label id="menu2" layoutX="29.0" layoutY="33.0" prefHeight="46.0" prefWidth="559.0" style="-fx-font-size: 20;" stylesheets="@hello-view.css" text="User:" />
-                        <Label id="username" fx:id="username" layoutX="96.0" layoutY="33.0" prefHeight="46.0" prefWidth="360.0" style="-fx-font-size: 20;" />
+                        <Label id="menu2" layoutX="29.0" layoutY="33.0" prefHeight="46.0" prefWidth="64.0" style="-fx-font-size: 20;" stylesheets="@hello-view.css" text="User:" />
                         <Label id="menu2" layoutX="29.0" layoutY="79.0" prefHeight="30.0" prefWidth="54.0" style="-fx-font-size: 20;" stylesheets="@hello-view.css" text="Time:" />
-                        <Label id="datetime" fx:id="datetime" layoutX="96.0" layoutY="79.0" prefHeight="30.0" prefWidth="547.0" style="-fx-font-size: 20;" />
                         <Label id="menu2" layoutX="29.0" layoutY="117.0" style="-fx-font-size: 20;" stylesheets="@hello-view.css" text="Hashtags:" />
-                        <Label id="hastags" fx:id="hastags" layoutX="205.0" layoutY="117.0" prefHeight="26.0" prefWidth="456.0" style="-fx-font-size: 20;" />
                         <Label id="menu2" layoutX="29.0" layoutY="156.0" style="-fx-font-size: 20;" stylesheets="@hello-view.css" text="Like:" />
                         <Label id="content" fx:id="content" layoutX="126.0" layoutY="238.0" prefHeight="188.0" prefWidth="489.0" style="-fx-font-size: 20;" />
                     </children>
+                    <ListView layoutX="165.0" prefHeight="466.0" prefWidth="699.0" />
             </Pane>
                 <Button layoutX="674.0" layoutY="86.0" mnemonicParsing="false" text="Search" />
                 <Separator layoutX="14.0" layoutY="19.0" orientation="VERTICAL" prefHeight="679.0" prefWidth="47.0" />
