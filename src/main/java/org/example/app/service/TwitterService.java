@@ -1,13 +1,13 @@
 package org.example.app.service;
 
-import org.example.app.entity.Twitter;
+import org.example.app.entity.Tweet;
 import org.example.app.utils.JsonReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
 public class TwitterService {
-    private List<Twitter> allTweets;
+    private List<Tweet> allTweets;
 
     public TwitterService() {
         try {
@@ -17,13 +17,13 @@ public class TwitterService {
             allTweets = new ArrayList<>();
         }
     }
-    public List<Twitter> searchTweetsByHashtag(String hashtag) {
-        List<Twitter> filteredTweets = new ArrayList<>();
+    public List<Tweet> searchTweetsByHashtag(String hashtag) {
+        List<Tweet> filteredTweets = new ArrayList<>();
         if (allTweets == null || hashtag == null || hashtag.isEmpty()) {
             return filteredTweets;
         }
 
-        for (Twitter tweet : allTweets) {
+        for (Tweet tweet : allTweets) {
             if (tweet != null && tweet.getHashtags() != null && tweet.getHashtags().contains(hashtag)) {
                 filteredTweets.add(tweet);
             }
