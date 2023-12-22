@@ -15,8 +15,17 @@ public class PostService {
         }
     }
     public List<Post> searchPostsByKeyword(List<Post> posts, String keyword) {
-        return posts.stream()
-                .filter(post -> post.getTitle().toLowerCase().contains(keyword.toLowerCase()))
-                .collect(Collectors.toList());
+//        if (posts == null ) {
+//            System.out.println("posts is null"); // or handle it as you see fit
+//            return null ;
+//        }
+//        if (keyword == null ) {
+//            System.out.println("keyword is null"); // or handle it as you see fit
+//            return null ;
+//        }
+            return  posts.stream()
+                    .filter(post -> post.getTitle().toLowerCase().contains(keyword.toLowerCase()))
+                    .collect(Collectors.toList());
+
     }
 }
