@@ -8,6 +8,7 @@ target/
 .idea
 .metadata
 *.iml
+!**/src/main/java/org/example/app/resources/json/NftPostsData.json
 
 ### Eclipse ###
 .apt_generated
