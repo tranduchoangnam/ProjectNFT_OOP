@@ -11,13 +11,6 @@ public class PostApp {
     public static void main(String[] args) {
         PostService postService = new PostService();
         List<Post> posts = postService.loadPosts();
-//        for (Post p : posts){
-//
-//            System.out.println("@" + p.getUsername() + " - " + p.getTime());
-//            System.out.println("Title: " + p.getTitle());
-//            System.out.println("URL: " + p.getUrl());
-//            System.out.println();
-//        }
         if (posts != null) {
             Scanner scanner = new Scanner(System.in);
             System.out.print("Nhập keyword bạn muốn tìm kiếm: ");
