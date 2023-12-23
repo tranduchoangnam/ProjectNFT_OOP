@@ -69,7 +69,7 @@
         </AnchorPane>
     </content>
 </ScrollPane>
-        <Pane id="menu" fx:id="menuPane" layoutX="31.0" layoutY="211.0" prefHeight="439.0" prefWidth="193.0" styleClass="menu" stylesheets="@hello-view.css">
+        <Pane id="menu" fx:id="menuPane" layoutX="22.0" layoutY="188.0" prefHeight="439.0" prefWidth="193.0" styleClass="menu" stylesheets="@hello-view.css">
             <children>
                 <Pane id="menu1" layoutX="21.0" layoutY="59.0" prefHeight="46.0" prefWidth="152.0">
                     <children>
@@ -84,8 +84,8 @@
                                 <Image url="@../images/searchicon.png" />
                             </image>
                         </ImageView>
-                        <Label id="menu2" layoutX="63.0" layoutY="13.0" prefHeight="23.0" prefWidth="98.0" text="SEARCH" onMouseClicked="#gotoSearch" />
-                        <Label id="menu2" layoutX="63.0" layoutY="81.0" prefHeight="25.0" prefWidth="47.0" text="HOT" onMouseClicked="#gotoHot" />
+                        <Label id="menu2" layoutX="63.0" layoutY="13.0" prefHeight="23.0" prefWidth="98.0" text="SEARCH" />
+                        <Label id="menu2" layoutX="63.0" layoutY="81.0" prefHeight="25.0" prefWidth="47.0" text="HOT" />
                         <ImageView fitHeight="47.0" fitWidth="57.0" layoutX="2.0" layoutY="70.0" pickOnBounds="true" preserveRatio="true">
                             <image>
                                 <Image url="@../images/page16.png" />
@@ -96,7 +96,7 @@
                                 <Image url="@../images/icon7.png" />
                             </image>
                         </ImageView>
-                        <Label id="menu2" layoutX="61.0" layoutY="153.0" text="CHART" onMouseClicked="#gotoChart" />
+                        <Label id="menu2" layoutX="61.0" layoutY="153.0" text="CHART" />
                     </children>
                 </Pane>
                 <Button id="menu1" fx:id="update" layoutX="14.0" layoutY="369.0" mnemonicParsing="false" onAction="#updateButton" prefHeight="31.0" prefWidth="85.0" style="-fx-background-color: A987a8; -fx-text-fill: white; -fx-font-weight: bold;" text="UPDATE" />
@@ -104,11 +104,6 @@
             </children>
         </Pane>
       <Separator layoutX="275.0" layoutY="158.0" orientation="VERTICAL" prefHeight="533.0" prefWidth="35.0" />
-      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="52.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
-         <image>
-            <Image url="@../images/logo.png" />
-         </image>
-      </ImageView>
 
     </children>
 </AnchorPane>

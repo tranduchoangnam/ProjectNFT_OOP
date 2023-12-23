@@ -10,7 +10,7 @@
 
 <AnchorPane id="page2" prefHeight="757.0" prefWidth="1220.0" styleClass="page2" stylesheets="@page2.css" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.app.JavaFx.Controller.HotController">
     <children>
-        <Pane id="menu" fx:id="menuPane" layoutX="40.0" layoutY="208.0" prefHeight="439.0" prefWidth="193.0" styleClass="menu" stylesheets="@hello-view.css">
+        <Pane id="menu" fx:id="menuPane" layoutX="22.0" layoutY="188.0" prefHeight="439.0" prefWidth="193.0" styleClass="menu" stylesheets="@hello-view.css">
             <children>
                 <Pane id="menu1" layoutX="21.0" layoutY="59.0" prefHeight="46.0" prefWidth="152.0">
                     <children>
@@ -25,8 +25,8 @@
                                 <Image url="@../images/searchicon.png" />
                             </image>
                         </ImageView>
-                        <Label id="menu2" layoutX="63.0" layoutY="13.0" onMouseClicked="#gotoSearch" prefHeight="23.0" prefWidth="98.0" text="SEARCH" />
-                        <Label id="menu2" layoutX="63.0" layoutY="81.0" onMouseClicked="#gotoHot" prefHeight="25.0" prefWidth="47.0" text="HOT" />
+                        <Label id="menu2" layoutX="63.0" layoutY="13.0" prefHeight="23.0" prefWidth="98.0" text="SEARCH" />
+                        <Label id="menu2" layoutX="63.0" layoutY="81.0" prefHeight="25.0" prefWidth="47.0" text="HOT" />
                         <ImageView fitHeight="47.0" fitWidth="57.0" layoutX="2.0" layoutY="70.0" pickOnBounds="true" preserveRatio="true">
                             <image>
                                 <Image url="@../images/page16.png" />
@@ -37,7 +37,7 @@
                                 <Image url="@../images/icon7.png" />
                             </image>
                         </ImageView>
-                        <Label id="menu2" layoutX="61.0" layoutY="153.0" onMouseClicked="#gotoChart" text="CHART" />
+                        <Label id="menu2" layoutX="61.0" layoutY="153.0" text="CHART" />
                     </children>
                 </Pane>
                 <Button id="menu1" fx:id="update" layoutX="14.0" layoutY="369.0" mnemonicParsing="false" onAction="#updateButton" prefHeight="31.0" prefWidth="85.0" style="-fx-background-color: A987a8; -fx-text-fill: white; -fx-font-weight: bold;" text="UPDATE" />
@@ -47,34 +47,29 @@
 
         <Pane layoutX="297.0" prefHeight="757.0" prefWidth="900.0">
             <children>
-                <Pane layoutX="6.0" layoutY="241.0" prefHeight="510.0" prefWidth="889.0" />
+                <Pane layoutX="6.0" layoutY="240.0" prefHeight="511.0" prefWidth="889.0" />
                 <Separator layoutX="14.0" layoutY="19.0" orientation="VERTICAL" prefHeight="679.0" prefWidth="47.0" />
                 <Label id="menu2" layoutX="68.0" layoutY="49.0" stylesheets="@hello-view.css" text="Do you want to search for the hottest hashtag by day, week, or month?" />
                 <Label layoutX="45.0" layoutY="98.0" prefHeight="110.0" prefWidth="835.0" />
-            <ImageView fitHeight="71.0" fitWidth="85.0" layoutX="55.0" layoutY="101.0" pickOnBounds="true" preserveRatio="true">
-               <image>
-                  <Image url="@../images/day.png" />
-               </image>
-            </ImageView>
-            <ImageView fitHeight="71.0" fitWidth="85.0" layoutX="382.0" layoutY="98.0" pickOnBounds="true" preserveRatio="true">
-               <image>
-                  <Image url="@../images/week.png" />
-               </image>
-            </ImageView>
-            <ImageView fitHeight="71.0" fitWidth="74.0" layoutX="689.0" layoutY="101.0" pickOnBounds="true" preserveRatio="true">
-               <image>
-                  <Image url="@../images/month.png" />
-               </image>
-            </ImageView>
-            <Button layoutX="59.0" layoutY="177.0" mnemonicParsing="false" text="Button" />
-            <Button layoutX="387.0" layoutY="177.0" mnemonicParsing="false" text="Button" />
-            <Button layoutX="693.0" layoutY="177.0" mnemonicParsing="false" text="Button" />
+                <ImageView fitHeight="54.0" fitWidth="83.0" layoutX="61.0" layoutY="98.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../images/day.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="54.0" fitWidth="70.0" layoutX="364.0" layoutY="98.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../images/week.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="54.0" fitWidth="57.0" layoutX="687.0" layoutY="98.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../images/month.png" />
+                    </image>
+                </ImageView>
+                <Button id="Day" fx:id="Day" layoutX="65.0" layoutY="160.0" mnemonicParsing="false" onAction="#Hotday" prefHeight="18.0" prefWidth="47.0" style="-fx-background-color: A987a8;" text="Day" />
+                <Button id="Week" fx:id="Week" layoutX="363.0" layoutY="160.0" mnemonicParsing="false" onAction="#Hotweek" style="-fx-background-color: A987a8;" text="Week" />
+                <Button id="Month" fx:id="Month" layoutX="687.0" layoutY="160.0" mnemonicParsing="false" onAction="#Hotmonth" style="-fx-background-color: A987a8;" text="Month" />
             </children>
         </Pane>
-      <ImageView fitHeight="167.0" fitWidth="165.0" layoutX="40.0" layoutY="6.0" pickOnBounds="true" preserveRatio="true">
-         <image>
-            <Image url="@../images/logo.png" />
-         </image>
-      </ImageView>
     </children>
 </AnchorPane>
