@@ -13,6 +13,9 @@ import org.example.app.entity.Tweet;
 import org.example.app.entity.Post;
 
 public class JsonReader {
+    public JsonReader() {
+    }
+
     public HashMap<String, List<NftCollection>> readFileRarible() throws IOException {
         ObjectMapper mapper = new ObjectMapper();
         HashMap<String, List<NftCollection>> obj = mapper.readValue(new File("src/main/resources/json/Rarible.json"),
@@ -20,6 +23,7 @@ public class JsonReader {
                 });
         return obj;
     }
+
     public static List<Tweet> readFileTwitterData() throws IOException {
         ObjectMapper mapper = new ObjectMapper();
         List<Tweet> list = mapper.readValue(new File("src/main/resources/json/TwitterData.json"),
@@ -27,9 +31,10 @@ public class JsonReader {
                 });
         return list;
     }
-    public static List<Post> readFileNftPostsData() throws IOException {
+
+    public static List<Post> readFilePost(String filename) throws IOException {
         ObjectMapper mapper = new ObjectMapper();
-        List<Post> list = mapper.readValue(new File("src/main/resources/json/NftPostsData.json"),
+        List<Post> list = mapper.readValue(new File("src/main/resources/json/" + filename + ".json"),
                 new TypeReference<List<Post>>() {
                 });
         return list;

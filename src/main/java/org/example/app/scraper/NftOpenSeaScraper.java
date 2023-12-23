@@ -1,7 +1,6 @@
 package org.example.app.scraper;
 
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.Collections;
 import java.util.Comparator;
@@ -9,10 +8,8 @@ import java.util.List;
 import java.util.regex.*;
 import java.util.ArrayList;
 import java.lang.InterruptedException;
-import java.lang.reflect.Array;
 import java.time.Duration;
 import java.util.Set;
-import java.util.HashMap;
 
 import org.example.app.entity.NftCollection;
 import org.example.app.entity.NftMarketplace;
@@ -26,8 +23,6 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.JavascriptExecutor;
-import static org.openqa.selenium.support.ui.ExpectedConditions.presenceOfElementLocated;
-import static org.openqa.selenium.support.ui.ExpectedConditions.elementToBeClickable;
 
 public class NftOpenSeaScraper extends NftScraper {
     private final String[] period = { "1h", "6h", "1d", "1w" };

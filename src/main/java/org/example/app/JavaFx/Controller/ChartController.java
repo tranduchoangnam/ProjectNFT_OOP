@@ -1,12 +1,14 @@
 package org.example.app.JavaFx.Controller;
 
+import com.google.gson.Gson;
+import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
+
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
-import javafx.fxml.Initializable;
-import javafx.scene.Node;
 import javafx.scene.Parent;
+import javafx.scene.Node;
 import javafx.scene.Scene;
 import javafx.scene.chart.LineChart;
 import javafx.scene.chart.XYChart;
@@ -16,52 +18,56 @@ import javafx.scene.control.Button;
 import javafx.scene.control.MenuItem;
 import javafx.scene.control.Slider;
 import javafx.scene.layout.AnchorPane;
-import javafx.scene.input.MouseEvent;
 import javafx.stage.Stage;
+import javafx.scene.input.MouseEvent;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.edge.EdgeDriver;
+import org.apache.commons.math3.stat.regression.SimpleRegression;
+import org.example.app.service.ChartService;
+import org.apache.commons.math3.stat.correlation.PearsonsCorrelation;
+import java.io.InputStreamReader;
+import java.io.InputStream;
 import java.io.IOException;
 import java.net.URL;
+
 import java.util.ResourceBundle;
-import org.example.app.service.ChartService;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
-
-public class ChartController implements Initializable {
+public class ChartController extends HelloController {
     @FXML
     private MenuButton menuButton;
-    
+
     @FXML
     private MenuButton menuButton2;
-    
+
     @FXML
     private MenuButton menuButton3;
-    
+
     @FXML
     private Slider zoomSlider;
-    
+
     @FXML
     private LineChart<Number, Number> lineChart;
-   
     @FXML
     private Button infoButton;
-    
+
     @FXML
     private NumberAxis yAxis;
-    
+
     @FXML
     private AnchorPane graphPane;
-
     private ChartService chartService;
     private double mouseX;
     private double mouseY;
     private double graphTranslateX;
     private double graphTranslateY;
     private String currentLink;
-    
+
     public ChartController() {
         chartService = new ChartService();
     }
@@ -80,12 +86,12 @@ public class ChartController implements Initializable {
         }
     }
 
-    @FXML 
+    @FXML
     protected void truyCapSan(ActionEvent event) {
         WebDriverManager.edgedriver().setup();
         WebDriver driver = new EdgeDriver();
         try {
-            driver.get(currentLink); 
+            driver.get(currentLink);
             WebElement button = driver.findElement(By.id("TruyCapSan"));
             button.click();
         } finally {
@@ -123,7 +129,7 @@ public class ChartController implements Initializable {
 
     @Override
     public void initialize(URL location, ResourceBundle resources) {
-    	
+
         zoomSlider.valueProperty().addListener((observable, oldValue, newValue) -> {
             handleZoomSliderChanged();
         });
@@ -181,42 +187,41 @@ public class ChartController implements Initializable {
         MenuItem oneDayItem = new MenuItem("1 Ngày");
         oneDayItem.setOnAction(event -> {
             chartService.handleTimePeriodSelected(chartService.getOneDay());
-        
             menuButton2.setText(oneDayItem.getText());
         });
 
         MenuItem oneWeekItem = new MenuItem("1 Tuần");
         oneWeekItem.setOnAction(event -> {
             chartService.handleTimePeriodSelected(chartService.getOneWeek());
-  
+
             menuButton2.setText(oneWeekItem.getText());
         });
 
         MenuItem oneHourItem = new MenuItem("1 Giờ");
         oneHourItem.setOnAction(event -> {
             chartService.handleTimePeriodSelected(chartService.getOneHour());
-          
+
             menuButton2.setText(oneHourItem.getText());
         });
 
         MenuItem oneMonthItem = new MenuItem("1 Tháng");
         oneMonthItem.setOnAction(event -> {
             chartService.handleTimePeriodSelected(chartService.getOneMonth());
-          
+
             menuButton2.setText(oneMonthItem.getText());
         });
 
         menuButton2.getItems().addAll(oneHourItem, oneDayItem, oneWeekItem, oneMonthItem);
     }
-    
+
     public void getCurrentLink(String link) {
-        currentLink = link;;
+        currentLink = link;
+        ;
     }
-    
+
     public void handleMenuItemSelected(String selectedValue) {
         // Xử lý sự kiện khi chọn một MenuItem
         double[][] chartData = chartService.getChartData(selectedValue);
-
         XYChart.Series<Number, Number> series = new XYChart.Series<>();
         for (int i = 0; i < chartData.length; i++) {
             series.getData().add(new XYChart.Data<>(chartData[i][0], chartData[i][1]));
@@ -224,20 +229,23 @@ public class ChartController implements Initializable {
         series.setName(selectedValue + " vs Rank");
 
         // Clear existing data and add new series
+
         lineChart.getData().clear();
         lineChart.getData().add(series);
 
         yAxis.setLabel(selectedValue);
         // Add regression line to the series
         chartService.addRegressionLine(series);
-     // Xác định sự kiện nhấp chuột vào điểm trên đồ thị
+        // Xác định sự kiện nhấp chuột vào điểm trên đồ thị
         for (XYChart.Data<Number, Number> data : series.getData()) {
             data.getNode().setOnMouseClicked(event -> {
                 handleDataPointClicked(data);
+
             });
         }
+
     }
-    
+
     public void handleDataPointClicked(XYChart.Data<Number, Number> data) {
         int selectedIndex = data.getXValue().intValue(); // Lấy chỉ mục từ xValue
 
@@ -268,5 +276,5 @@ public class ChartController implements Initializable {
         infoButton.setText(info);
         infoButton.setDisable(false);
     }
- 
+
 }

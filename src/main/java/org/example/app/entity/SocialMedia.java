@@ -2,6 +2,8 @@ package org.example.app.entity;
 
 import java.util.List;
 
+import org.json.JSONObject;
+
 public abstract class SocialMedia {
     protected String username;
     protected String time;
@@ -11,6 +13,9 @@ public abstract class SocialMedia {
         this.username = username;
         this.time = time;
         this.hashtags = hashtags;
+    }
+
+    public SocialMedia() {
     }
 
     public String getUsername() {
@@ -36,4 +41,7 @@ public abstract class SocialMedia {
     public void setHashtags(List<String> hashtags) {
         this.hashtags = hashtags;
     }
+
+    public abstract JSONObject toJSONObject();
+
 }
