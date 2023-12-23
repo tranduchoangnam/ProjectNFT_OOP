@@ -10,13 +10,13 @@
 
 <AnchorPane id="page1" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="829.0" prefWidth="1303.0" styleClass="page1" stylesheets="@hello-view.css" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.app.JavaFx.Controller.HelloController">
    <children>
-      <Pane layoutY="43.0" prefHeight="299.0" prefWidth="1514.0">
+      <Pane layoutX="6.0" layoutY="14.0" prefHeight="299.0" prefWidth="1514.0">
          <children>
-            <Pane layoutX="76.0" prefHeight="158.0" prefWidth="379.0">
+            <Pane layoutX="76.0" layoutY="-6.0" prefHeight="158.0" prefWidth="379.0">
                <children>
-                  <ImageView fitHeight="118.0" fitWidth="137.0" layoutX="212.0" layoutY="-16.0" pickOnBounds="true" preserveRatio="true" style="-fx-border-radius: 50%">
+                  <ImageView fitHeight="150.0" fitWidth="150.0" layoutX="-35.0" layoutY="4.0" pickOnBounds="true" preserveRatio="true" style="-fx-border-radius: 50%">
                      <image>
-                        <Image url="@../images/page3.png" />
+                        <Image url="@../images/logo.png" />
                      </image>
                   </ImageView>
                </children>
@@ -40,7 +40,7 @@
             <Separator layoutX="455.0" layoutY="127.0" orientation="VERTICAL" prefHeight="158.0" prefWidth="16.0" />
             <Label layoutX="960.0" layoutY="158.0" prefHeight="60.0" prefWidth="116.0" style="-fx-font-size: 50; -fx-font-weight: bold; -fx-text-fill: #511F52;" text="1+" />
             <Separator layoutX="841.0" layoutY="127.0" orientation="VERTICAL" prefHeight="158.0" prefWidth="34.0" />
-            <Pane layoutX="514.0" layoutY="111.0" prefHeight="200.0" prefWidth="229.0">
+            <Pane layoutX="503.0" layoutY="106.0" prefHeight="200.0" prefWidth="229.0">
                <children>
                   <Label layoutX="130.0" layoutY="49.0" style="-fx-font-size: 50; -fx-font-weight: bold; -fx-text-fill: #511F52;" text="06" />
                   <Label layoutX="115.0" layoutY="125.0" opacity="0.75" style="-fx-font-size: 20;" text="Employee" />
@@ -87,48 +87,48 @@
             </Pane>
          </children>
       </Pane>
-      <Pane layoutX="6.0" layoutY="316.0" prefHeight="513.0" prefWidth="1296.0">
+      <Pane layoutX="232.0" layoutY="251.0" prefHeight="513.0" prefWidth="1075.0">
          <children>
-            <Label layoutX="615.0" layoutY="31.0" prefHeight="46.0" prefWidth="236.0" style="-fx-font-size: 30; -fx-font-weight: bold; -fx-text-fill: #511F52;" text="OUR FEATURES" />
-            <Pane layoutY="66.0" prefHeight="150.0" prefWidth="1502.0" stylesheets="@hello-view.css">
+            <Label layoutX="348.0" layoutY="31.0" prefHeight="46.0" prefWidth="236.0" style="-fx-font-size: 30; -fx-font-weight: bold; -fx-text-fill: #511F52;" text="OUR FEATURES" />
+            <Pane layoutX="129.0" layoutY="199.0" prefHeight="133.0" prefWidth="1166.0">
                <children>
-                  <ImageView fitHeight="121.0" fitWidth="110.0" layoutX="298.0" layoutY="-2.0" pickOnBounds="true" preserveRatio="true">
-                     <image>
-                        <Image url="@../images/page8.png" />
-                     </image>
-                  </ImageView>
-                  <Label layoutX="446.0" layoutY="14.0" style="-fx-font-size: 18; -fx-font-weight: bold; -fx-text-fill: #511F52;" text="View list of posts by hashtag/tag/keyword." />
-                  <Label layoutX="466.0" layoutY="46.0" prefHeight="24.0" prefWidth="534.0" style="-fx-font-size: 14;" text="Tempor consequat fugiat mollit sint enim consequat " />
-                  <Label layoutX="466.0" layoutY="70.0" text="Tempor consequat fugiat mollit sint " />
-
-                  <Button id="searchButton" fx:id="searchButton" layoutX="1169.0" layoutY="103.0" mnemonicParsing="false" onAction="#OnActionSearchButton" prefHeight="32.0" prefWidth="89.0" style="-fx-background-color: A987a8;" text="Search now!" />
-                  <Separator layoutX="236.0" layoutY="-183.0" orientation="VERTICAL" prefHeight="536.0" prefWidth="34.0" />
-
-               </children>
-            </Pane>
-            <Pane layoutX="29.0" layoutY="208.0" prefHeight="133.0" prefWidth="1488.0">
-               <children>
-                  <ImageView fitHeight="118.0" fitWidth="104.0" layoutX="273.0" layoutY="4.0" pickOnBounds="true" preserveRatio="true">
+                  <ImageView fitHeight="118.0" fitWidth="104.0" layoutY="24.0" pickOnBounds="true" preserveRatio="true">
                      <image>
                         <Image url="@../images/page9.png" />
                      </image>
                   </ImageView>
-                  <Label layoutX="436.0" layoutY="37.0" text="Tempor consequat fugiat mollit sint enim consequat " />
-                  <Label layoutX="436.0" layoutY="62.0" text="Tempor consequat fugiat mollit sint enim consequat " />
-                  <Button id="FindHot" layoutX="1152.0" layoutY="55.0" mnemonicParsing="false" onAction="#OnActionHotButton" prefHeight="32.0" prefWidth="85.0" style="-fx-background-color: #A987a8;" stylesheets="@hello-view.css" text="Find now!" />
-                  <Label layoutX="421.0" layoutY="3.0" style="-fx-font-size: 18; -fx-font-weight: bold; -fx-text-fill: #511F52;" text="Find the hottest hashtags and tags of the day/week/month." />
+                  <Label layoutX="139.0" layoutY="52.0" text="Tempor consequat fugiat mollit sint enim consequat " />
+                  <Label layoutX="139.0" layoutY="77.0" text="Tempor consequat fugiat mollit sint enim consequat " />
+                  <Button id="FindHot" layoutX="740.0" layoutY="88.0" mnemonicParsing="false" onAction="#OnActionHotButton" prefHeight="32.0" prefWidth="85.0" style="-fx-background-color: #A987a8;" stylesheets="@hello-view.css" text="Find now!" />
+                  <Label layoutX="139.0" layoutY="24.0" style="-fx-font-size: 18; -fx-font-weight: bold; -fx-text-fill: #511F52;" text="Find the hottest hashtags and tags of the day/week/month." />
                </children>
             </Pane>
-            <Pane layoutX="-12.0" layoutY="351.0" prefHeight="158.0" prefWidth="1303.0">
+            <Pane layoutX="132.0" layoutY="341.0" prefHeight="158.0" prefWidth="1156.0">
                <children>
-                  <ImageView fitHeight="133.0" fitWidth="104.0" layoutX="309.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+                  <ImageView fitHeight="118.0" fitWidth="98.0" layoutY="20.0" pickOnBounds="true" preserveRatio="true">
                      <image>
                         <Image url="@../images/page7.png" />
                      </image>
                   </ImageView>
-                  <Label layoutX="458.0" layoutY="14.0" style="-fx-font-size: 18; -fx-font-weight: bold; -fx-text-fill: #511F52;" text="Analyze and present the correlation between trending, price, volume, ... on NFT exchanges with" />
-                  <Label layoutX="458.0" layoutY="37.0" style="-fx-font-size: 18; -fx-font-weight: bold; -fx-text-fill: #511F52;" text=" articles/tweets /hashtags/ tags/keywords." />
-                  <Button id="Chart" layoutX="1196.0" layoutY="91.0" mnemonicParsing="false" onAction="#OnActionChartButton" prefHeight="32.0" prefWidth="85.0" style="-fx-background-color: #A987a8;" stylesheets="@hello-view.css" text="Find now!" />
+                  <Label layoutX="142.0" layoutY="20.0" style="-fx-font-size: 18; -fx-font-weight: bold; -fx-text-fill: #511F52;" text="Analyze and present the correlation between trending, price, volume, ... on NFT exchanges " />
+                  <Label layoutX="142.0" layoutY="47.0" style="-fx-font-size: 18; -fx-font-weight: bold; -fx-text-fill: #511F52;" text=" with articles/tweets /hashtags/ tags/keywords." />
+                  <Button id="Chart" layoutX="746.0" layoutY="98.0" mnemonicParsing="false" onAction="#OnActionChartButton" prefHeight="32.0" prefWidth="85.0" style="-fx-background-color: #A987a8;" stylesheets="@hello-view.css" text="Find now!" />
+               </children>
+            </Pane>
+            <Separator layoutX="29.0" layoutY="-54.0" orientation="VERTICAL" prefHeight="536.0" prefWidth="34.0" />
+            <Pane layoutX="117.0" layoutY="77.0" prefHeight="150.0" prefWidth="800.0" stylesheets="@hello-view.css">
+               <children>
+                  <Label layoutX="146.0" layoutY="20.0" style="-fx-font-size: 18; -fx-font-weight: bold; -fx-text-fill: #511F52;" text="View list of posts by hashtag/tag/keyword." />
+                  <Label layoutX="146.0" layoutY="47.0" prefHeight="24.0" prefWidth="534.0" style="-fx-font-size: 14;" text="Tempor consequat fugiat mollit sint enim consequat " />
+                  <Label layoutX="146.0" layoutY="75.0" text="Tempor consequat fugiat mollit sint " />
+      
+                  <Button id="searchButton" fx:id="searchButton" layoutX="749.0" layoutY="115.0" mnemonicParsing="false" onAction="#OnActionSearchButton" prefHeight="32.0" prefWidth="89.0" style="-fx-background-color: A987a8;" text="Search now!" />
+                  <ImageView fitHeight="121.0" fitWidth="110.0" layoutX="14.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../images/page8.png" />
+                     </image>
+                  </ImageView>
+      
                </children>
             </Pane>
          </children>
