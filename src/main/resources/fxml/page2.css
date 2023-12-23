@@ -1,0 +1,11 @@
+#page2{
+        -fx-background-color:  #f2ebf3;  /* fallback for old browsers */
+        -fx-background-color:  -webkit-linear-gradient(to right, #E2E2E2, #f2ebf3);  /* Chrome 10-25, Safari 5.1-6 */
+        -fx-background-color: linear-gradient(to right, #E2E2E2, #f2ebf3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+#menu3{
+        -fx-background-radius: 80px;
+        -fx-background-color: #BE93C5;  /* fallback for old browsers */
+        -fx-background-color: -webkit-linear-gradient(to right, #7BC6CC, #BE93C5);  /* Chrome 10-25, Safari 5.1-6 */
+        -fx-background-color: linear-gradient(to right, #7BC6CC, #BE93C5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
