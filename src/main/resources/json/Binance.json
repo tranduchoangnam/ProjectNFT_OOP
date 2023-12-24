@@ -1,0 +1,726 @@
+{
+  "6h" : [ {
+    "rank" : "1",
+    "name" : "Metaverse King",
+    "floorPrice" : "0.06 BNB",
+    "floorChange" : "+3.50%",
+    "volume" : "4.16 BNB",
+    "volumeChange" : "+54.20%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "2",
+    "name" : "Alpine Race Collectibles",
+    "floorPrice" : "< 0.01 BNB",
+    "floorChange" : "+0.00%",
+    "volume" : "1.5 BNB",
+    "volumeChange" : "+261.13%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "3",
+    "name" : "Nifty League DEGENs",
+    "floorPrice" : "< 0.01 ETH",
+    "floorChange" : "--",
+    "volume" : "3.91 ETH",
+    "volumeChange" : "+0.00%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "4",
+    "name" : "Azuki",
+    "floorPrice" : "5.97 ETH",
+    "floorChange" : "+0.68%",
+    "volume" : "466.02 ETH",
+    "volumeChange" : "-57.74%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "5",
+    "name" : "QzukiNFT",
+    "floorPrice" : "< 0.01 ETH",
+    "floorChange" : "+0.66%",
+    "volume" : "0.15 ETH",
+    "volumeChange" : "+0.00%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "6",
+    "name" : "Moonbirds",
+    "floorPrice" : "1.44 ETH",
+    "floorChange" : "-3.25%",
+    "volume" : "99.72 ETH",
+    "volumeChange" : "+12.17%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "7",
+    "name" : "Gh0stly gh0sts ETH",
+    "floorPrice" : "< 0.01 ETH",
+    "floorChange" : "--",
+    "volume" : "14.33 ETH",
+    "volumeChange" : "-76.06%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "8",
+    "name" : "DeGods",
+    "floorPrice" : "2.87 ETH",
+    "floorChange" : "+7.87%",
+    "volume" : "173.92 ETH",
+    "volumeChange" : "-51.83%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "9",
+    "name" : "Meebits",
+    "floorPrice" : "1.26 ETH",
+    "floorChange" : "-4.08%",
+    "volume" : "70.02 ETH",
+    "volumeChange" : "+388.66%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "10",
+    "name" : "Rug Radio - Genesis NFT",
+    "floorPrice" : "0.15 ETH",
+    "floorChange" : "-0.03%",
+    "volume" : "6.96 ETH",
+    "volumeChange" : "+401.47%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "11",
+    "name" : "Opepen Edition",
+    "floorPrice" : "0.38 ETH",
+    "floorChange" : "-2.68%",
+    "volume" : "18.99 ETH",
+    "volumeChange" : "+1,189.49%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "12",
+    "name" : "XTREME PIXELS",
+    "floorPrice" : "< 0.01 ETH",
+    "floorChange" : "+75.99%",
+    "volume" : "0.16 ETH",
+    "volumeChange" : "+2,227.58%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "13",
+    "name" : "Spooktacular Scavenger Hunt",
+    "floorPrice" : "< 0.01 BNB",
+    "floorChange" : "+94.00%",
+    "volume" : "0.25 BNB",
+    "volumeChange" : "+0.00%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "14",
+    "name" : "Imaginary Rides",
+    "floorPrice" : "0.18 ETH",
+    "floorChange" : "+20.95%",
+    "volume" : "7.1 ETH",
+    "volumeChange" : "+721.98%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "15",
+    "name" : "The Grapes",
+    "floorPrice" : "1.53 ETH",
+    "floorChange" : "+5.55%",
+    "volume" : "50.59 ETH",
+    "volumeChange" : "-72.22%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "16",
+    "name" : "CLONE X - X TAKASHI MURAKAMI",
+    "floorPrice" : "1.22 ETH",
+    "floorChange" : "+6.37%",
+    "volume" : "43.26 ETH",
+    "volumeChange" : "-38.98%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "17",
+    "name" : "Dimension X",
+    "floorPrice" : "< 0.01 ETH",
+    "floorChange" : "+0.73%",
+    "volume" : "0.56 ETH",
+    "volumeChange" : "+55.93%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "18",
+    "name" : "Isekai Meta",
+    "floorPrice" : "< 0.01 ETH",
+    "floorChange" : "--",
+    "volume" : "2.73 ETH",
+    "volumeChange" : "-35.69%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "19",
+    "name" : "Mutant Ape Yacht Club",
+    "floorPrice" : "5.26 ETH",
+    "floorChange" : "+0.87%",
+    "volume" : "184.29 ETH",
+    "volumeChange" : "-5.19%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "20",
+    "name" : "Skyborne - Nexian Gems",
+    "floorPrice" : "1.61 ETH",
+    "floorChange" : "+0.68%",
+    "volume" : "41.19 ETH",
+    "volumeChange" : "+17.77%",
+    "items" : -1,
+    "owners" : -1
+  } ],
+  "1d" : [ {
+    "rank" : "1",
+    "name" : "Metaverse King",
+    "floorPrice" : "0.06 BNB",
+    "floorChange" : "-11.12%",
+    "volume" : "7.7 BNB",
+    "volumeChange" : "+0.42%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "2",
+    "name" : "Alpine Race Collectibles",
+    "floorPrice" : "< 0.01 BNB",
+    "floorChange" : "+0.00%",
+    "volume" : "3.22 BNB",
+    "volumeChange" : "-92.85%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "3",
+    "name" : "Metaverse Ape Yacht Club",
+    "floorPrice" : "0.06 BNB",
+    "floorChange" : "+0.00%",
+    "volume" : "3.71 BNB",
+    "volumeChange" : "+0.00%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "4",
+    "name" : "Azuki",
+    "floorPrice" : "5.97 ETH",
+    "floorChange" : "-6.68%",
+    "volume" : "2.3K ETH",
+    "volumeChange" : "+6.57%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "5",
+    "name" : "The Grapes",
+    "floorPrice" : "1.53 ETH",
+    "floorChange" : "-14.43%",
+    "volume" : "419.29 ETH",
+    "volumeChange" : "+42.89%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "6",
+    "name" : "Gh0stly gh0sts ETH",
+    "floorPrice" : "< 0.01 ETH",
+    "floorChange" : "--",
+    "volume" : "70.39 ETH",
+    "volumeChange" : "+5,050.82%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "7",
+    "name" : "Bitcoin Holders",
+    "floorPrice" : "0.04 BNB",
+    "floorChange" : "+0.00%",
+    "volume" : "1.27 BNB",
+    "volumeChange" : "+0.00%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "8",
+    "name" : "DeGods",
+    "floorPrice" : "2.87 ETH",
+    "floorChange" : "+8.72%",
+    "volume" : "616.75 ETH",
+    "volumeChange" : "-31.92%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "9",
+    "name" : "Lil Pudgys",
+    "floorPrice" : "0.92 ETH",
+    "floorChange" : "-8.00%",
+    "volume" : "193.32 ETH",
+    "volumeChange" : "-13.98%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "10",
+    "name" : "Moonbirds",
+    "floorPrice" : "1.44 ETH",
+    "floorChange" : "-10.30%",
+    "volume" : "267.1 ETH",
+    "volumeChange" : "-34.40%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "11",
+    "name" : "CLONE X - X TAKASHI MURAKAMI",
+    "floorPrice" : "1.22 ETH",
+    "floorChange" : "-1.99%",
+    "volume" : "226.7 ETH",
+    "volumeChange" : "-17.31%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "12",
+    "name" : "Mutant Ape Yacht Club",
+    "floorPrice" : "5.26 ETH",
+    "floorChange" : "+0.97%",
+    "volume" : "811 ETH",
+    "volumeChange" : "-26.60%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "13",
+    "name" : "Isekai Meta",
+    "floorPrice" : "< 0.01 ETH",
+    "floorChange" : "--",
+    "volume" : "8.8 ETH",
+    "volumeChange" : "+597.13%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "14",
+    "name" : "RTFKT Animus Egg \uD83E\uDD5A",
+    "floorPrice" : "0.37 ETH",
+    "floorChange" : "+21.98%",
+    "volume" : "44.03 ETH",
+    "volumeChange" : "+349.78%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "15",
+    "name" : "DOODLE APE",
+    "floorPrice" : "0.04 BNB",
+    "floorChange" : "+0.00%",
+    "volume" : "0.49 BNB",
+    "volumeChange" : "-64.46%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "16",
+    "name" : "Skyborne - Nexian Gems",
+    "floorPrice" : "1.61 ETH",
+    "floorChange" : "+38.77%",
+    "volume" : "141.44 ETH",
+    "volumeChange" : "+45.50%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "17",
+    "name" : "NEON CUTS",
+    "floorPrice" : "0.06 BNB",
+    "floorChange" : "+36.36%",
+    "volume" : "0.8 BNB",
+    "volumeChange" : "-66.68%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "18",
+    "name" : "Meebits",
+    "floorPrice" : "1.26 ETH",
+    "floorChange" : "+1.30%",
+    "volume" : "129 ETH",
+    "volumeChange" : "+901.73%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "19",
+    "name" : "Nifty League DEGENs",
+    "floorPrice" : "< 0.01 ETH",
+    "floorChange" : "--",
+    "volume" : "4.07 ETH",
+    "volumeChange" : "+2,897.61%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "20",
+    "name" : "Pudgy Penguins",
+    "floorPrice" : "10.95 ETH",
+    "floorChange" : "-1.01%",
+    "volume" : "1K ETH",
+    "volumeChange" : "+42.40%",
+    "items" : -1,
+    "owners" : -1
+  } ],
+  "1w" : [ {
+    "rank" : "1",
+    "name" : "Homie Metaverse",
+    "floorPrice" : "0.03 BNB",
+    "floorChange" : "-2.86%",
+    "volume" : "19.74 BNB",
+    "volumeChange" : "+33,047.75%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "2",
+    "name" : "Valentine Rose",
+    "floorPrice" : "0.02 BNB",
+    "floorChange" : "-41.04%",
+    "volume" : "15.31 BNB",
+    "volumeChange" : "+408,635.59%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "3",
+    "name" : "Metaverse King",
+    "floorPrice" : "0.06 BNB",
+    "floorChange" : "+4.31%",
+    "volume" : "15.1 BNB",
+    "volumeChange" : "+112.60%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "4",
+    "name" : "Alpine Race Collectibles",
+    "floorPrice" : "< 0.01 BNB",
+    "floorChange" : "+0.00%",
+    "volume" : "52.83 BNB",
+    "volumeChange" : "+1,075.16%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "5",
+    "name" : "Metaverse Skull Yacht Club",
+    "floorPrice" : "0.04 BNB",
+    "floorChange" : "-34.00%",
+    "volume" : "11.87 BNB",
+    "volumeChange" : "+16.99%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "6",
+    "name" : "Bitcoin Punk Ordinal NFT (BTC)",
+    "floorPrice" : "0.07 BNB",
+    "floorChange" : "+1.14%",
+    "volume" : "12.96 BNB",
+    "volumeChange" : "-34.61%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "7",
+    "name" : "DOODLE APE",
+    "floorPrice" : "0.04 BNB",
+    "floorChange" : "-4.81%",
+    "volume" : "10.23 BNB",
+    "volumeChange" : "-18.99%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "8",
+    "name" : "Azuki",
+    "floorPrice" : "5.97 ETH",
+    "floorChange" : "-2.58%",
+    "volume" : "10K ETH",
+    "volumeChange" : "+155.52%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "9",
+    "name" : "DeGods",
+    "floorPrice" : "2.87 ETH",
+    "floorChange" : "-1.79%",
+    "volume" : "4.4K ETH",
+    "volumeChange" : "+30.87%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "10",
+    "name" : "Metaverse NFT Collection",
+    "floorPrice" : "0.03 BNB",
+    "floorChange" : "+16.40%",
+    "volume" : "7.22 BNB",
+    "volumeChange" : "+558.04%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "11",
+    "name" : "Lil Pudgys",
+    "floorPrice" : "0.92 ETH",
+    "floorChange" : "-7.89%",
+    "volume" : "1.1K ETH",
+    "volumeChange" : "-62.90%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "12",
+    "name" : "Metaverse Ape Yacht Club",
+    "floorPrice" : "0.06 BNB",
+    "floorChange" : "+0.00%",
+    "volume" : "4.74 BNB",
+    "volumeChange" : "-73.36%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "13",
+    "name" : "Mutant Ape Yacht Club",
+    "floorPrice" : "5.26 ETH",
+    "floorChange" : "+3.14%",
+    "volume" : "5.8K ETH",
+    "volumeChange" : "+2.03%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "14",
+    "name" : "Moonbirds",
+    "floorPrice" : "1.44 ETH",
+    "floorChange" : "-29.80%",
+    "volume" : "1.6K ETH",
+    "volumeChange" : "+132.55%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "15",
+    "name" : "Element Benders",
+    "floorPrice" : "0.06 BNB",
+    "floorChange" : "+7.14%",
+    "volume" : "3.79 BNB",
+    "volumeChange" : "+0.00%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "16",
+    "name" : "Skyborne - Nexian Gems",
+    "floorPrice" : "1.61 ETH",
+    "floorChange" : "+118.65%",
+    "volume" : "690.12 ETH",
+    "volumeChange" : "+163.44%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "17",
+    "name" : "NEON CUTS",
+    "floorPrice" : "0.06 BNB",
+    "floorChange" : "+36.36%",
+    "volume" : "3.42 BNB",
+    "volumeChange" : "+0.00%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "18",
+    "name" : "Bitcoin Holders",
+    "floorPrice" : "0.04 BNB",
+    "floorChange" : "+19.81%",
+    "volume" : "3.39 BNB",
+    "volumeChange" : "-60.02%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "19",
+    "name" : "The Grapes",
+    "floorPrice" : "1.53 ETH",
+    "floorChange" : "-12.57%",
+    "volume" : "1.1K ETH",
+    "volumeChange" : "+591.41%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "20",
+    "name" : "The Marvel Avengers",
+    "floorPrice" : "0.04 BNB",
+    "floorChange" : "+2.59%",
+    "volume" : "2.56 BNB",
+    "volumeChange" : "-19.93%",
+    "items" : -1,
+    "owners" : -1
+  } ],
+  "1h" : [ {
+    "rank" : "1",
+    "name" : "Metaverse King",
+    "floorPrice" : "0.06 BNB",
+    "floorChange" : "+0.00%",
+    "volume" : "0.5 BNB",
+    "volumeChange" : "-43.38%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "2",
+    "name" : "Nifty League DEGENs",
+    "floorPrice" : "< 0.01 ETH",
+    "floorChange" : "--",
+    "volume" : "3.84 ETH",
+    "volumeChange" : "+0.00%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "3",
+    "name" : "QzukiNFT",
+    "floorPrice" : "< 0.01 ETH",
+    "floorChange" : "-0.11%",
+    "volume" : "0.15 ETH",
+    "volumeChange" : "+0.00%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "4",
+    "name" : "Alpine Race Collectibles",
+    "floorPrice" : "< 0.01 BNB",
+    "floorChange" : "+0.00%",
+    "volume" : "0.05 BNB",
+    "volumeChange" : "-90.24%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "5",
+    "name" : "Alpine Esports Series 2023",
+    "floorPrice" : "< 0.01 BNB",
+    "floorChange" : "-12.50%",
+    "volume" : "0.02 BNB",
+    "volumeChange" : "-3.35%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "6",
+    "name" : "HasbullaNFT",
+    "floorPrice" : "0.01 ETH",
+    "floorChange" : "-0.21%",
+    "volume" : "0.27 ETH",
+    "volumeChange" : "-30.84%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "7",
+    "name" : "PROMPTZ",
+    "floorPrice" : "< 0.01 ETH",
+    "floorChange" : "-0.27%",
+    "volume" : "0.02 ETH",
+    "volumeChange" : "+0.00%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "8",
+    "name" : "Mutant Ape Yacht Club",
+    "floorPrice" : "5.26 ETH",
+    "floorChange" : "-0.19%",
+    "volume" : "51.02 ETH",
+    "volumeChange" : "-41.29%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "9",
+    "name" : "DeGods",
+    "floorPrice" : "2.87 ETH",
+    "floorChange" : "+3.40%",
+    "volume" : "24.87 ETH",
+    "volumeChange" : "-25.47%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "10",
+    "name" : "RTFKT Animus Egg \uD83E\uDD5A",
+    "floorPrice" : "0.37 ETH",
+    "floorChange" : "+4.03%",
+    "volume" : "2.79 ETH",
+    "volumeChange" : "-47.19%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "11",
+    "name" : "DigiDaigaku Dragon Eggs",
+    "floorPrice" : "0.06 ETH",
+    "floorChange" : "-0.19%",
+    "volume" : "0.46 ETH",
+    "volumeChange" : "-7.98%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "12",
+    "name" : "Flokitars",
+    "floorPrice" : "0.02 ETH",
+    "floorChange" : "+10.00%",
+    "volume" : "0.13 ETH",
+    "volumeChange" : "+0.00%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "13",
+    "name" : "Otherside Vessels",
+    "floorPrice" : "0.2 ETH",
+    "floorChange" : "+5.68%",
+    "volume" : "1.13 ETH",
+    "volumeChange" : "-24.99%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "14",
+    "name" : "The Grapes",
+    "floorPrice" : "1.53 ETH",
+    "floorChange" : "+14.71%",
+    "volume" : "8.35 ETH",
+    "volumeChange" : "-63.82%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "15",
+    "name" : "DigiDaigaku Masked Villains",
+    "floorPrice" : "0.03 ETH",
+    "floorChange" : "+20.55%",
+    "volume" : "0.13 ETH",
+    "volumeChange" : "+0.00%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "16",
+    "name" : "Isekai Meta",
+    "floorPrice" : "< 0.01 ETH",
+    "floorChange" : "--",
+    "volume" : "0.45 ETH",
+    "volumeChange" : "-34.18%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "17",
+    "name" : "Azuki Elementals",
+    "floorPrice" : "0.58 ETH",
+    "floorChange" : "-0.19%",
+    "volume" : "2.63 ETH",
+    "volumeChange" : "+0.00%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "18",
+    "name" : "Azuki",
+    "floorPrice" : "5.97 ETH",
+    "floorChange" : "-0.19%",
+    "volume" : "21.78 ETH",
+    "volumeChange" : "-70.07%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "19",
+    "name" : "Moonbirds",
+    "floorPrice" : "1.44 ETH",
+    "floorChange" : "-0.87%",
+    "volume" : "5.31 ETH",
+    "volumeChange" : "-55.04%",
+    "items" : -1,
+    "owners" : -1
+  }, {
+    "rank" : "20",
+    "name" : "Gh0stly gh0sts ETH",
+    "floorPrice" : "< 0.01 ETH",
+    "floorChange" : "--",
+    "volume" : "0.63 ETH",
+    "volumeChange" : "-45.57%",
+    "items" : -1,
+    "owners" : -1
+  } ]
+}
