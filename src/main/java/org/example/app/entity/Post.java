@@ -12,13 +12,16 @@ public class Post extends SocialMedia {
 
     @JsonCreator
     public Post(@JsonProperty("title") String title,
-                @JsonProperty("url") String url,
-                @JsonProperty("username") String username,
-                @JsonProperty("time") String time,
-                @JsonProperty("hashtags") List<String> hashtags) {
+            @JsonProperty("url") String url,
+            @JsonProperty("username") String username,
+            @JsonProperty("time") String time,
+            @JsonProperty("hashtags") List<String> hashtags) {
         super(username, time, hashtags);
         this.title = title;
         this.url = url;
+    }
+
+    public Post() {
     }
 
     public String getTitle() {
@@ -37,6 +40,7 @@ public class Post extends SocialMedia {
         this.url = url;
     }
 
+    @Override
     public JSONObject toJSONObject() {
         JSONObject obj = new JSONObject();
         obj.put("title", title);

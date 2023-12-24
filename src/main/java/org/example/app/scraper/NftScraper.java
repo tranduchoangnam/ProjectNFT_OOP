@@ -15,7 +15,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public abstract class NftScraper {
+public abstract class NftScraper implements Scrapping {
     private String url;
     private String name;
     private NftMarketplace nftMarketplace;
@@ -56,6 +56,7 @@ public abstract class NftScraper {
         this.nftInPeriod.put(period, nftCollection);
     }
 
+    @Override
     public void scrap() throws InterruptedException {
         // Selenium setup
         WebDriverManager.chromedriver().setup();
