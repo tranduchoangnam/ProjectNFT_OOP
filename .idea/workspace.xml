@@ -5,23 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13d13618-811c-4d50-bd43-f35c47a0dbf7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/scraper/Scrapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/test.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/nft.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/JavaFx/Controller/ChartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/app/JavaFx/Controller/ChartController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/JavaFx/Controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/app/JavaFx/Controller/HelloController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/JavaFx/Controller/HotController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/app/JavaFx/Controller/HotController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/JavaFx/Controller/SearchController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/app/JavaFx/Controller/SearchController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/scraper/NftScraper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/app/scraper/NftScraper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/utils/JsonWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/app/utils/JsonWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/Chart.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/Chart.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/HotPage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/HotPage.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/SearchPage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/SearchPage.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/hello-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/json/Binance.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/json/Binance.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/json/NiftyGateway.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/json/NiftyGateway.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/json/OpenSea.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/json/OpenSea.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/json/Rarible.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/json/Rarible.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +20,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
         <option value="FxmlFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -56,6 +45,9 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
@@ -68,34 +60,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Application.HelloApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.ProjectNFT [c].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;feature/ui/new&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/ProjectNFT/src/main/resources/images&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.HelloApplication.executor": "Run",
+    "Application.TwitterScraper.executor": "Debug",
+    "Maven.ProjectNFT [c].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "feature/ui/new",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/ProjectNFT/src/main/resources/images",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;CSS&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "CSS"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\ProjectNFT\src\main\resources\images" />
+      <recent name="D:\ProjectNFT\src\main\java\org\example\app\scraper" />
+      <recent name="D:\ProjectNFT\src\main\java\org\example\app\entity" />
+      <recent name="D:\ProjectNFT\src\main\java\org\example\app\utils" />
       <recent name="D:\ProjectNFT\src\main\resources\json" />
-      <recent name="D:\ProjectNFT\src\main\resources\fxml" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="org.example.app.JavaFx.Controller" />

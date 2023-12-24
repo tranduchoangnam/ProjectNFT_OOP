@@ -149,4 +149,61 @@ public class HelloController implements Initializable {
         ;
 
     }
+    @FXML
+    private void gotoSearch(javafx.scene.input.MouseEvent event) throws IOException {
+        Stage stage = (Stage) ((Node) event.getSource()).getScene().getWindow();
+        FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("/fxml/SearchPage.fxml"));
+        Parent root1 = (Parent) fxmlLoader.load();
+        Screen screen = Screen.getPrimary();
+        javafx.geometry.Rectangle2D bounds = screen.getVisualBounds();
+
+        stage.setX(bounds.getMinX());
+        stage.setY(bounds.getMinY());
+        stage.setWidth(bounds.getWidth());
+        stage.setHeight(bounds.getHeight());
+        stage.setTitle("SearchPage");
+        stage.setScene(new Scene(root1));
+        stage.initStyle(StageStyle.DECORATED);
+        stage.show();
+
+
+    }
+    @FXML
+    private void gotoHot(javafx.scene.input.MouseEvent event) throws IOException {
+        Stage stage = (Stage) ((Node) event.getSource()).getScene().getWindow();
+        FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("/fxml/HotPage.fxml"));
+        Parent root1 = (Parent) fxmlLoader.load();
+        Screen screen = Screen.getPrimary();
+        javafx.geometry.Rectangle2D bounds = screen.getVisualBounds();
+
+        stage.setX(bounds.getMinX());
+        stage.setY(bounds.getMinY());
+        stage.setWidth(bounds.getWidth());
+        stage.setHeight(bounds.getHeight());
+        stage.setTitle("HotPage");
+        stage.setScene(new Scene(root1));
+        stage.initStyle(StageStyle.DECORATED);
+        stage.show();
+
+
+    }
+    @FXML
+    private void gotoChart(javafx.scene.input.MouseEvent event) throws IOException {
+        Stage stage = (Stage) ((Node) event.getSource()).getScene().getWindow();
+        FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("/fxml/Chart.fxml"));
+        Parent root1 = (Parent) fxmlLoader.load();
+        Screen screen = Screen.getPrimary();
+        javafx.geometry.Rectangle2D bounds = screen.getVisualBounds();
+
+        stage.setX(bounds.getMinX());
+        stage.setY(bounds.getMinY());
+        stage.setWidth(bounds.getWidth());
+        stage.setHeight(bounds.getHeight());
+        stage.setTitle("ChartPage");
+        stage.setScene(new Scene(root1));
+        stage.initStyle(StageStyle.DECORATED);
+        stage.show();
+
+
+    }
 }
