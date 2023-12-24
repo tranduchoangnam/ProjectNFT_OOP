@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13d13618-811c-4d50-bd43-f35c47a0dbf7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/scraper/TwitterScraper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/service/HotHashtagService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/utils/TwitterUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/nft.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/JavaFx/Controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/app/JavaFx/Controller/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/entity/Tweet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/app/entity/Tweet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/scraper/DemoScraper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/Chart.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/Chart.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/JavaFx/Controller/HotController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/app/JavaFx/Controller/HotController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/JavaFx/Controller/SearchController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/app/JavaFx/Controller/SearchController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/HotPage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/HotPage.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/SearchPage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/SearchPage.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +45,9 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
@@ -74,7 +72,7 @@
     "git-widget-placeholder": "feature/ui/new",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/page",
+    "last_opened_file_path": "D:/ProjectNFT/src/main/resources/images",
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -88,10 +86,10 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ProjectNFT\src\main\resources\images" />
       <recent name="D:\ProjectNFT\src\main\java\org\example\app\scraper" />
       <recent name="D:\ProjectNFT\src\main\java\org\example\app\entity" />
       <recent name="D:\ProjectNFT\src\main\java\org\example\app\utils" />
-      <recent name="D:\ProjectNFT\src\main\resources\images" />
       <recent name="D:\ProjectNFT\src\main\resources\json" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">

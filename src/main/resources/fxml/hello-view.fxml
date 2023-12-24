@@ -21,36 +21,33 @@
                   </ImageView>
                </children>
             </Pane>
-            <Pane layoutX="440.0" layoutY="-17.0" prefHeight="158.0" prefWidth="500.0">
+            <Pane layoutX="438.0" layoutY="-18.0" prefHeight="158.0" prefWidth="500.0">
                <children>
-                  <Label layoutX="114.0" layoutY="44.0" prefHeight="46.0" prefWidth="306.0" style="-fx-font-size: 30; -fx-font-weight: bold; -fx-text-fill: #511F52;" text="     WHO WE ARE?" />
-                  <Label layoutX="84.0" layoutY="90.0" opacity="0.8" prefHeight="20.0" prefWidth="379.0" style="-fx-font-size: 16;" text="Tempor consequat fugiat mollit sint enim consequat" />
-                  <Label layoutX="84.0" layoutY="117.0" opacity="0.8" style="-fx-font-size: 16;" text=" mollit ut dolor et culpa laborum enim " />
+                  <Label layoutX="97.0" layoutY="14.0" prefHeight="46.0" prefWidth="306.0" style="-fx-font-size: 30; -fx-font-weight: bold; -fx-text-fill: #511F52;" text="     WHO WE ARE?" />
+                  <Label layoutX="-22.0" layoutY="85.0" opacity="0.8" prefHeight="25.0" prefWidth="603.0" style="-fx-font-size: 16;" text="of Non-Fungible Tokens (NFTs). Our team is composed of skilled professionals, each  " />
+                  <Label layoutX="-19.0" layoutY="110.0" opacity="0.8" prefHeight="25.0" prefWidth="553.0" style="-fx-font-size: 16;" text="bringing unique expertise and passion to the forefront of digital asset creation" />
+                  <Label layoutX="-19.0" layoutY="142.0" opacity="0.8" prefHeight="25.0" prefWidth="379.0" style="-fx-font-size: 16;" text="and blockchain technology." />
+                  <Label layoutX="-22.0" layoutY="60.0" opacity="0.8" prefHeight="25.0" prefWidth="591.0" style="-fx-font-size: 16;" text="Welcome to our dedicated team, where innovation meets art in the exciting world" />
+
+
                </children>
             </Pane>
             <Pane layoutX="1065.0" layoutY="-6.0" prefHeight="231.0" prefWidth="346.0">
                <children>
-                  <ImageView id="1" fitHeight="176.0" fitWidth="177.0" layoutX="28.0" layoutY="41.0" pickOnBounds="true" preserveRatio="true">
+                  <ImageView fitHeight="150.0" fitWidth="186.0" layoutX="14.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../images/page4.png" />
+                        <Image url="@../images/nft.png" />
                      </image>
                   </ImageView>
-               </children>
-            </Pane>
+               </children></Pane>
             <Separator layoutX="455.0" layoutY="127.0" orientation="VERTICAL" prefHeight="158.0" prefWidth="16.0" />
             <Label layoutX="960.0" layoutY="158.0" prefHeight="60.0" prefWidth="116.0" style="-fx-font-size: 50; -fx-font-weight: bold; -fx-text-fill: #511F52;" text="1+" />
             <Separator layoutX="841.0" layoutY="127.0" orientation="VERTICAL" prefHeight="158.0" prefWidth="34.0" />
-            <Pane layoutX="503.0" layoutY="106.0" prefHeight="200.0" prefWidth="229.0">
-               <children>
-                  <Label layoutX="130.0" layoutY="49.0" style="-fx-font-size: 50; -fx-font-weight: bold; -fx-text-fill: #511F52;" text="06" />
-                  <Label layoutX="115.0" layoutY="125.0" opacity="0.75" style="-fx-font-size: 20;" text="Employee" />
-               </children>
-            </Pane>
             <Label layoutX="931.0" layoutY="236.0" opacity="0.75" style="-fx-font-size: 20;" text="Years experience" />
             <Pane layoutX="255.0" layoutY="106.0" prefHeight="200.0" prefWidth="200.0">
                <children>
                   <Label layoutX="58.0" layoutY="60.0" style="-fx-font-size: 50; -fx-font-weight: bold; -fx-text-fill: #511F52;" text="10+" />
-                  <Label layoutX="69.0" layoutY="130.0" style="-fx-font-size: 20;" text="Cilents" />
+                  <Label layoutX="69.0" layoutY="130.0" style="-fx-font-size: 20;" text="Clients" />
                </children>
             </Pane>
             <Pane id="menu" fx:id="menuPane" layoutX="22.0" layoutY="188.0" prefHeight="439.0" prefWidth="193.0" styleClass="menu" stylesheets="@hello-view.css">
@@ -68,44 +65,50 @@
                               <Image url="@../images/searchicon.png" />
                            </image>
                         </ImageView>
-                        <Label id="menu2" layoutX="63.0" layoutY="13.0" prefHeight="23.0" prefWidth="98.0" text="SEARCH" onMouseClicked="#gotoSearch" />
-                        <Label id="menu2" layoutX="63.0" layoutY="81.0" prefHeight="25.0" prefWidth="47.0" text="HOT" onMouseClicked="#gotoHot"/>
+                        <Label id="menu2" layoutX="63.0" layoutY="13.0" onMouseClicked="#gotoSearch" prefHeight="23.0" prefWidth="98.0" text="SEARCH" />
+                        <Label id="menu2" layoutX="63.0" layoutY="81.0" onMouseClicked="#gotoHot" prefHeight="25.0" prefWidth="47.0" text="HOT" />
                         <ImageView fitHeight="47.0" fitWidth="57.0" layoutX="2.0" layoutY="70.0" pickOnBounds="true" preserveRatio="true">
                            <image>
                               <Image url="@../images/page16.png" />
                            </image>
                         </ImageView>
-                        <ImageView fitHeight="54.0" fitWidth="57.0" layoutX="-1.0" layoutY="135.0" pickOnBounds="true" preserveRatio="true" >
+                        <ImageView fitHeight="54.0" fitWidth="57.0" layoutX="-1.0" layoutY="135.0" pickOnBounds="true" preserveRatio="true">
                            <image>
                               <Image url="@../images/icon7.png" />
                            </image>
                         </ImageView>
-                        <Label id="menu2" layoutX="61.0" layoutY="153.0" text="CHART" onMouseClicked="#gotoChart" />
+                        <Label id="menu2" layoutX="61.0" layoutY="153.0" onMouseClicked="#gotoChart" text="CHART" />
                      </children>
                   </Pane>
                   <Button id="menu1" fx:id="update" layoutX="14.0" layoutY="369.0" mnemonicParsing="false" onAction="#updateButton" prefHeight="31.0" prefWidth="85.0" style="-fx-background-color: A987a8; -fx-text-fill: white; -fx-font-weight: bold;" text="UPDATE" />
                   <Button id="menu1" fx:id="back" layoutX="109.0" layoutY="369.0" mnemonicParsing="false" onAction="#backButton" prefHeight="32.0" prefWidth="70.0" style="-fx-background-color: A987a8; -fx-text-fill: white; -fx-font-weight: bold;" text="BACK" />
                </children>
             </Pane>
+            <Pane layoutX="528.0" layoutY="116.0" prefHeight="200.0" prefWidth="229.0">
+               <children>
+                  <Label layoutX="130.0" layoutY="49.0" style="-fx-font-size: 50; -fx-font-weight: bold; -fx-text-fill: #511F52;" text="06" />
+                  <Label layoutX="115.0" layoutY="125.0" opacity="0.75" style="-fx-font-size: 20;" text="Employee" />
+               </children>
+            </Pane>
          </children>
       </Pane>
-      <Pane layoutX="232.0" layoutY="251.0" prefHeight="513.0" prefWidth="1075.0">
+      <Pane layoutX="195.0" layoutY="284.0" prefHeight="513.0" prefWidth="1075.0">
          <children>
-            <Label layoutX="348.0" layoutY="31.0" prefHeight="46.0" prefWidth="236.0" style="-fx-font-size: 30; -fx-font-weight: bold; -fx-text-fill: #511F52;" text="OUR FEATURES" />
-            <Pane layoutX="129.0" layoutY="199.0" prefHeight="133.0" prefWidth="1166.0">
+            <Label layoutX="374.0" layoutY="14.0" prefHeight="46.0" prefWidth="236.0" style="-fx-font-size: 30; -fx-font-weight: bold; -fx-text-fill: #511F52;" text="OUR FEATURES" />
+            <Pane layoutX="127.0" layoutY="190.0" prefHeight="133.0" prefWidth="1166.0">
                <children>
-                  <ImageView fitHeight="118.0" fitWidth="104.0" layoutY="24.0" pickOnBounds="true" preserveRatio="true">
+                  <ImageView fitHeight="118.0" fitWidth="104.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
                      <image>
                         <Image url="@../images/page9.png" />
                      </image>
                   </ImageView>
-                  <Label layoutX="139.0" layoutY="52.0" text="Tempor consequat fugiat mollit sint enim consequat " />
-                  <Label layoutX="139.0" layoutY="77.0" text="Tempor consequat fugiat mollit sint enim consequat " />
-                  <Button id="FindHot" layoutX="740.0" layoutY="88.0" mnemonicParsing="false" onAction="#OnActionHotButton" prefHeight="32.0" prefWidth="85.0" style="-fx-background-color: #A987a8;" stylesheets="@hello-view.css" text="Find now!" />
+                  <Label layoutX="139.0" layoutY="52.0" prefHeight="21.0" prefWidth="538.0" text="Search for the hottest tweets based on day, week, month, year and visualize the" />
+                  <Label layoutX="139.0" layoutY="77.0" text="articles for better understanding." />
+                  <Button id="FindHot" layoutX="726.0" layoutY="88.0" mnemonicParsing="false" onAction="#OnActionHotButton" prefHeight="32.0" prefWidth="107.0" style="-fx-background-color: #A987a8; -fx-text-fill: white; -fx-font-weight: bold;" stylesheets="@hello-view.css" text="Find now!" />
                   <Label layoutX="139.0" layoutY="24.0" style="-fx-font-size: 18; -fx-font-weight: bold; -fx-text-fill: #511F52;" text="Find the hottest hashtags and tags of the day/week/month." />
                </children>
             </Pane>
-            <Pane layoutX="132.0" layoutY="341.0" prefHeight="158.0" prefWidth="1156.0">
+            <Pane layoutX="127.0" layoutY="323.0" prefHeight="158.0" prefWidth="1156.0">
                <children>
                   <ImageView fitHeight="118.0" fitWidth="98.0" layoutY="20.0" pickOnBounds="true" preserveRatio="true">
                      <image>
@@ -113,23 +116,25 @@
                      </image>
                   </ImageView>
                   <Label layoutX="142.0" layoutY="20.0" style="-fx-font-size: 18; -fx-font-weight: bold; -fx-text-fill: #511F52;" text="Analyze and present the correlation between trending, price, volume, ... on NFT exchanges " />
-                  <Label layoutX="142.0" layoutY="47.0" style="-fx-font-size: 18; -fx-font-weight: bold; -fx-text-fill: #511F52;" text=" with articles/tweets /hashtags/ tags/keywords." />
-                  <Button id="Chart" layoutX="746.0" layoutY="98.0" mnemonicParsing="false" onAction="#OnActionChartButton" prefHeight="32.0" prefWidth="85.0" style="-fx-background-color: #A987a8;" stylesheets="@hello-view.css" text="Find now!" />
+                  <Label layoutX="142.0" layoutY="47.0" style="-fx-font-size: 18; -fx-font-weight: bold; -fx-text-fill: #511F52;" text=" with articles/tweets /hashtags/keywords." />
+                  <Label layoutX="139.0" layoutY="79.0" prefHeight="21.0" prefWidth="777.0" text="Analyze the correlation between articles and NFTs through charts and statistics." />
+                  <Button id="Chart" layoutX="726.0" layoutY="94.0" mnemonicParsing="false" onAction="#OnActionChartButton" prefHeight="32.0" prefWidth="107.0" style="-fx-background-color: #A987a8; -fx-text-fill: white; -fx-font-weight: bold;" stylesheets="@hello-view.css" text="Find now!" />
                </children>
             </Pane>
             <Separator layoutX="29.0" layoutY="-54.0" orientation="VERTICAL" prefHeight="536.0" prefWidth="34.0" />
-            <Pane layoutX="117.0" layoutY="77.0" prefHeight="150.0" prefWidth="800.0" stylesheets="@hello-view.css">
+            <Pane layoutX="120.0" layoutY="49.0" prefHeight="150.0" prefWidth="800.0" stylesheets="@hello-view.css">
                <children>
                   <Label layoutX="146.0" layoutY="20.0" style="-fx-font-size: 18; -fx-font-weight: bold; -fx-text-fill: #511F52;" text="View list of posts by hashtag/tag/keyword." />
-                  <Label layoutX="146.0" layoutY="47.0" prefHeight="24.0" prefWidth="534.0" style="-fx-font-size: 14;" text="Tempor consequat fugiat mollit sint enim consequat " />
-                  <Label layoutX="146.0" layoutY="75.0" text="Tempor consequat fugiat mollit sint " />
+                  <Label layoutX="146.0" layoutY="54.0" prefHeight="21.0" prefWidth="777.0" text="The search feature on Twitter and blogs, using '#' hashtags and keywords, " />
+                  <Label layoutX="148.0" layoutY="76.0" prefHeight="21.0" prefWidth="723.0" text="enables effortless discovery of specific topics or trending discussions, " />
       
-                  <Button id="searchButton" fx:id="searchButton" layoutX="749.0" layoutY="115.0" mnemonicParsing="false" onAction="#OnActionSearchButton" prefHeight="32.0" prefWidth="89.0" style="-fx-background-color: A987a8;" text="Search now!" />
-                  <ImageView fitHeight="121.0" fitWidth="110.0" layoutX="14.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                  <Button id="searchButton" fx:id="searchButton" layoutX="731.0" layoutY="104.0" mnemonicParsing="false" onAction="#OnActionSearchButton" prefHeight="32.0" prefWidth="107.0" style="-fx-background-color: A987a8; -fx-text-fill: white; -fx-font-weight: bold;" text="Search now!" />
+                  <ImageView fitHeight="121.0" fitWidth="110.0" layoutX="8.0" layoutY="15.0" pickOnBounds="true" preserveRatio="true">
                      <image>
                         <Image url="@../images/page8.png" />
                      </image>
                   </ImageView>
+                  <Label layoutX="146.0" layoutY="94.0" prefHeight="21.0" prefWidth="723.0" text="providing quick access to NFT-related content tailored to users'interests." />
       
                </children>
             </Pane>

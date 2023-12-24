@@ -58,6 +58,7 @@ public class SearchController extends HelloController {
 
                 List<Post> matchedPosts = postService.searchPostsByKeyword(posts, hastag);
 
+
                 for (Post post : matchedPosts) {
                     VBox tweet = new VBox();
                     Label title = new Label(post.getTitle());
@@ -95,6 +96,7 @@ public class SearchController extends HelloController {
             String hastag = hastagField.getText();
             twitterService = new TwitterService();
             ArrayList<Tweet> filteredTweets = twitterService.searchTweetsByHashtag(hastag);
+           
             for (Tweet t : filteredTweets) {
                 VBox tweet = new VBox();
                 Label username = new Label(t.getUsername());
