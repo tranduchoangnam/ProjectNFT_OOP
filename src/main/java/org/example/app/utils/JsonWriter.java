@@ -7,11 +7,13 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.ObjectWriter;
 
 import org.example.app.scraper.PostDefiantScraper;
+import org.example.app.entity.Post;
 import org.example.app.scraper.NftBinanceScraper;
 import org.example.app.scraper.NftNiftyGatewayScraper;
 import org.example.app.scraper.NftOpenSeaScraper;
 import org.example.app.scraper.NftRaribleScraper;
 import org.example.app.scraper.NftScraper;
+import org.example.app.scraper.PostCryptoNewsScraper;
 
 import java.io.IOException;
 import java.nio.file.Paths;
@@ -48,13 +50,17 @@ public class JsonWriter {
     }
 
     public void postFileWriter() throws InterruptedException {
-        PostDefiantScraper postScraper = new PostDefiantScraper();
+        PostCryptoNewsScraper postScraper = new PostCryptoNewsScraper();
+        PostDefiantScraper postScraper2 = new PostDefiantScraper();
+        List<Post> postList = new ArrayList<Post>();
+        postList.addAll(postScraper.getPostArray());
+        postList.addAll(postScraper2.getPostArray());
 
         try {
             ObjectMapper mapper = new ObjectMapper();
             ObjectWriter writer = mapper.writer(new DefaultPrettyPrinter());
             writer.writeValue(Paths.get("src/main/resources/json/Post.json").toFile(),
-                    postScraper.getPostArray());
+                    postList);
         } catch (StreamWriteException e) {
             throw new RuntimeException(e);
         } catch (DatabindException e) {

@@ -90,6 +90,7 @@ public class TwitterScraper implements Scrapping {
     }
 
     private void clearSearchBox(WebElement searchBox) {
+        searchBox.sendKeys(Keys.chord(Keys.COMMAND, "a"));
         searchBox.sendKeys(Keys.chord(Keys.CONTROL, "a"));
         searchBox.sendKeys(Keys.DELETE);
     }
