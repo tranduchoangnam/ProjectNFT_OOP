@@ -63,8 +63,7 @@ public class SearchController implements Initializable {
 
     @FXML
   private TwitterService twitterService;
-   @FXML
-   private BlogService blogService;
+
     @FXML
     private VBox tweetlist;
 
